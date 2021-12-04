@@ -1,0 +1,188 @@
+{
+  "title": "Poasi Tei",
+  "pageID": 64335636,
+  "categories": [
+    "Living people",
+    "Members of the Legislative Assembly of Tonga",
+    "Government ministers of Tonga",
+    "Democratic Party of the Friendly Islands politicians",
+    "University of the South Pacific alumni",
+    "1967 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Poasi Mataele Tei (born 4 October 1967) is a Tongan politician and Member of the Legislative Assembly of Tonga.",
+              "links": [
+                {
+                  "text": "Tongan",
+                  "type": "internal",
+                  "page": "Tonga"
+                },
+                {
+                  "type": "internal",
+                  "page": "Legislative Assembly of Tonga"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Poasi Mataele Tei"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Tei was educated at the University of the South Pacific in Suva, Fiji, graduating with a Bachelor of Arts and an MBA.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of the South Pacific"
+                },
+                {
+                  "type": "internal",
+                  "page": "Suva"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fiji"
+                }
+              ]
+            },
+            {
+              "text": "Before entering politics he worked for the Statistics Department, as an accountant for the Tonga Co-operative Federation, Pacific Finance and Investment, Tonga Water Board and Tonga Airport Limited."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1967",
+          "month": "10",
+          "day": "4",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Poasi Tei"
+          },
+          "office": {
+            "text": "Minister for Energy, Environment, Information and Climate Change"
+          },
+          "primeminister": {
+            "text": "Pohiva Tuʻiʻonetoa\nʻAkilisi Pōhiva",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pohiva Tuʻiʻonetoa"
+              },
+              {
+                "text": "ʻAkilisi Pōhiva",
+                "type": "internal",
+                "page": "ʻAkilisi Pōhiva"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "4 January 2018"
+          },
+          "predecessor": {
+            "text": "Siaosi Sovaleni",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Siaosi Sovaleni"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister for Public Enterprises"
+          },
+          "term_start2": {
+            "text": "30 December 2014"
+          },
+          "term_end2": {
+            "text": "4 January 2018"
+          },
+          "primeminister2": {
+            "text": "ʻAkilisi Pōhiva",
+            "links": [
+              {
+                "text": "ʻAkilisi Pōhiva",
+                "type": "internal",
+                "page": "ʻAkilisi Pōhiva"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Fe‘aomoeata Vakata",
+            "links": [
+              {
+                "text": "Fe‘aomoeata Vakata",
+                "type": "internal",
+                "page": "Sosefo Fe‘aomoeata Vakata"
+              }
+            ]
+          },
+          "constituency_mp5": {
+            "text": "Tongatapu 6",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tongatapu 6"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "27 November 2014"
+          },
+          "predecessor5": {
+            "text": "Siosifa Tuʻutafaiva",
+            "links": [
+              {
+                "text": "Siosifa Tuʻutafaiva",
+                "type": "internal",
+                "page": "Siosifa Tuʻitupou Tuʻutafaiva"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 4, 1967"
+          },
+          "party": {
+            "text": "None"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Poasi Mataele Tei",
+          "url": "https://parliament.gov.to/members-of-parliament/peoples/326-poasi-mataele-tei",
+          "access-date": "2021-01-14",
+          "website": "parliament.gov.to",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.portsauthoritytonga.com/index.php?option=com_content&view=article&id=280:hon-poasi-mataele-tei-appointed-as-the-new-minister-for-public-enterprises&catid=109&Itemid=575",
+          "title": "Hon. Poasi Mataele Tei appointed as the new Minister for Public Enterprises",
+          "publisher": "Ports Authority Tonga",
+          "date": "30 January 2015",
+          "accessdate": "21 June 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

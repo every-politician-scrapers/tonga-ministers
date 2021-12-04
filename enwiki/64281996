@@ -1,0 +1,198 @@
+{
+  "title": "ʻAmelia Afuhaʻamango Tuʻipulotu",
+  "pageID": 64281996,
+  "categories": [
+    "Living people",
+    "Ministers of Health of Tonga",
+    "Women government ministers of Tonga",
+    "University of Sydney alumni",
+    "21st-century women politicians",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Amelia Afuhaamango Tuipulotu is Tonga's Minister of Health.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tonga"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Amelia Afuhaamango Tuipulotu"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Tuipulotu trained as a nurse, and worked in Australia and Tonga."
+            },
+            {
+              "text": "She received an Australian Development Scholarship to attend the University of Sydney, and in 2012 became the first Tongan to receive a Nursing PhD. After graduation, she worked for Tonga's Ministry of Health, becoming Matron of the Nursing Department at Vaiola Hospital in Tonga.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Sydney"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In October 2019 she was appointed Minister of Health in the cabinet of Pohiva Tuʻiʻonetoa.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pohiva Tuʻiʻonetoa"
+                }
+              ]
+            },
+            {
+              "text": "Tuipulotu is the only Minister from outside the Legislative Assembly of Tonga.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Legislative Assembly of Tonga"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In May 2020 she was elected to a position of Rapporteur on the World Health Organization's executive board.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "World Health Organization"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "okina"
+        },
+        {
+          "template": "okina"
+        },
+        {
+          "template": "okina"
+        },
+        {
+          "template": "okina"
+        },
+        {
+          "template": "okina"
+        },
+        {
+          "template": "okina"
+        },
+        {
+          "template": "okina"
+        },
+        {
+          "template": "okina"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Amelia Afuhaamango Tuipulotu"
+          },
+          "image": {
+            "text": "'Amelia Afuha'amango Tu'ipulotu.jpg"
+          },
+          "office": {
+            "text": "Minister for Health"
+          },
+          "primeminister": {
+            "text": "Pohiva Tuʻiʻonetoa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pohiva Tuʻiʻonetoa"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 October 2019"
+          },
+          "predecessor": {
+            "text": "Saia Piukala",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saia Piukala"
+              }
+            ]
+          },
+          "party": {
+            "text": "none"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://pmo.gov.to/index.php/2019/10/10/prime-minister-announces-new-cabinet-ministers/",
+          "title": "\"Prime Minister Announces New Cabinet Ministers\"",
+          "publisher": "Government of Tonga",
+          "date": "10 October 2019",
+          "accessdate": "15 June 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.looptonga.com/tonga-news/diverse-tonga-cabinet-aims-end-division-87250",
+          "title": "Diverse Tonga Cabinet aims to end division",
+          "publisher": "Loop Pacific",
+          "date": "30 September 2019",
+          "accessdate": "16 June 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://matangitonga.to/2020/05/25/health-minister-elected-role-who-executive-board",
+          "title": "Health Minister elected to role on WHO Executive Board",
+          "publisher": "Matangi Tonga",
+          "date": "25 May 2020",
+          "accessdate": "16 June 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://sydney.edu.au/news/84.html?newsstoryid=10757",
+          "title": "Tonga's first ever PhD in Nursing graduates from Sydney",
+          "publisher": "University of Sydney",
+          "date": "14 December 2012",
+          "accessdate": "16 June 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.dfat.gov.au/geo/tonga/development-assistance/Pages/australia-awards-in-tonga",
+          "title": "Australia Awards in Tonga",
+          "publisher": "Australian Department of Foreign Affairs and Trade",
+          "accessdate": "16 June 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
