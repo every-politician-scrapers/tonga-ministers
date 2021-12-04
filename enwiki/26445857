@@ -1,0 +1,162 @@
+{
+  "title": "Viliami Tangi",
+  "pageID": 26445857,
+  "categories": [
+    "Living people",
+    "Deputy Prime Ministers of Tonga",
+    "Ministers of Health of Tonga",
+    "Members of the Legislative Assembly of Tonga",
+    "Tongan emigrants to Australia",
+    "Tongan surgeons",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Viliami Ta’u Tangi, Lord Tangi of Vaonukonuka, is a Tongan politician and former Cabinet Minister.",
+              "links": [
+                {
+                  "text": "Tongan",
+                  "type": "internal",
+                  "page": "Tonga"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Viliami Ta’u Tangi, Lord Tangi of Vaonukonuka"
+                ]
+              }
+            },
+            {
+              "text": "He has previously served as Deputy Prime Minister and Minister of Health.",
+              "links": [
+                {
+                  "text": "Deputy Prime Minister",
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Tonga"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Tangi trained as a medical doctor, and was Chief Surgeon in Vaiola Hospital, Nuku'alofa, before moving to Australia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nuku'alofa"
+                },
+                {
+                  "type": "internal",
+                  "page": "Australia"
+                }
+              ]
+            },
+            {
+              "text": "He returned to Tonga after being appointed as Minister of Health."
+            },
+            {
+              "text": "As a Minister, he sat in the Tongan Parliament, but was not an elected representative.",
+              "links": [
+                {
+                  "text": "Tongan Parliament",
+                  "type": "internal",
+                  "page": "Legislative Assembly of Tonga"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following democratic reforms in 2010, Dr Tangi contested the 2010 election, but failed to win a seat.",
+              "links": [
+                {
+                  "text": "2010 election",
+                  "type": "internal",
+                  "page": "2010 Tongan general election"
+                }
+              ]
+            },
+            {
+              "text": "On 30 December 2010, he was subsequently appointed a Tongan life peer by King George Tupou V as Lord Tangi of Vaonukonuka.",
+              "links": [
+                {
+                  "text": "Tongan life peer",
+                  "type": "internal",
+                  "page": "Life peer (Tonga)"
+                },
+                {
+                  "type": "internal",
+                  "page": "George Tupou V"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Lord Tangi of Vaonukonuka"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following the 2021 Tongan general election he was appointed interim Speaker.",
+              "links": [
+                {
+                  "text": "2021 Tongan general election",
+                  "type": "internal",
+                  "page": "2021 Tongan general election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "March 2020",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.rnz.co.nz/international/pacific-news/193304/tonga-health-minister-standing-in-elections-to-ensure-continuity",
+          "title": "Tonga health minister standing in elections to ensure continuity",
+          "publisher": "RNZ",
+          "date": "25 October 2010",
+          "accessdate": "13 December 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.mic.gov.to/government/nobles-of-the-realm/1969-lord-tangi-of-vaonukonuka",
+          "title": "Lord Tangi of Vaonukonuka",
+          "publisher": "Matangi Tonga",
+          "date": "30 December 2010",
+          "accessdate": "21 July 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://nukualofatimes.to/2021/11/22/lord-tangi-is-interim-speaker-of-the-house/",
+          "title": "Lord Tangi is interim Speaker of the House",
+          "publisher": "Nukualofa Times",
+          "date": "22 November 2021",
+          "access-date": "22 November 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
