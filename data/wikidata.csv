@@ -1,1 +1,9 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
+Q19631293,Siaosi Sovaleni,Siaosi Sovaleni,male,1970-02-28,11,,,Q108888371,Minister for Education and Training,Q19631293-1CAA66F6-FDE4-4297-A3C4-83C8CC5DBB23
+Q28910910,‘Akosita Lavulavu,‘Akosita Lavulavu,female,1985-01-01,9,,,Q108887638,Minister of Infrastructure and Tourism of Tonga,Q28910910-3D17E4A0-7D27-4E09-8FCE-F04A74543333
+Q3470867,Samiu Vaipulu,Samiu Vaipulu,male,1952-12-24,11,,,Q108888380,Minister for Trade and Economic Development,Q3470867-F549E51C-2BFB-4D50-A46A-0991825A1754
+Q3485136,Maʻafu Tukuiʻaulahi,Maʻafu Tukuiʻaulahi,male,1955-01-01,9,,,Q108887679,"Minister for Lands, Survey, Natural Resources",Q3485136-B09995E6-7E5C-4724-B921-5330D8A744A8
+Q96314730,‘Amelia Afuha’amango Tu’ipulotu,‘Amelia Afuha’amango Tu’ipulotu,female,,,,,Q108888377,Minister of Health,Q96314730-731A9D5B-BF22-4FE9-869B-BD2DDB863DDD
+Q96479418,Poasi Tei,Poasi Tei,male,1967-10-04,11,,,Q108887682,Minister for the Environment and Climate Change,Q96479418-116F4688-C6EF-43A0-B023-C312F9004907
+Q96479582,Vatau Hui,Vatau Hui,male,1970-06-02,11,,,Q108888383,Minister for Internal Affairs,Q96479582-3872EC81-F5F1-41DF-8655-CF154F08D927
+Q96574147,Tevita Lavemaau,Tevita Lavemaau,male,,,,,Q108887702,Minister for Revenue and Customs,Q96574147-019D9DF0-4135-4335-81FF-D3E542E979BF
