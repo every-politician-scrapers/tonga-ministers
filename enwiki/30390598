@@ -3,7 +3,7 @@
   "pageID": 30390598,
   "categories": [
     "1955 births",
-    "Living people",
+    "2021 deaths",
     "Government ministers of Tonga",
     "Members of the Legislative Assembly of Tonga",
     "People from Tongatapu",
@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Siosaia Lausiʻi, but since his installation on 30 Oct 1997 with the noble title 10th Maʻafu (shortened for Maʻafu Tukuʻiʻaulahi, meaning Maʻafu put in the strong current, after a happening with an ancestor around 1820), better known as Lord Maʻafu (of Vaini), is a Tongan politician, former military officer, and member of the Tongan nobility.",
+              "text": "Siosaia Lausiʻi, also known as Lord Maʻafu (of Vaini) (died 12 December 2021), was a Tongan politician, former military officer, and member of the Tongan nobility.",
               "links": [
                 {
                   "text": "Tongan",
@@ -35,11 +35,7 @@
               "formatting": {
                 "bold": [
                   "Siosaia Lausiʻi",
-                  "Maʻafu",
                   "Lord Maʻafu"
-                ],
-                "italic": [
-                  "Maʻafu put in the strong current"
                 ]
               }
             }
@@ -74,6 +70,21 @@
                   "page": "Taufaʻahau Tupou IV"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was installed with the noble title 10th Maʻafu (shortened for Maʻafu Tukuʻiʻaulahi, meaning Maʻafu put in the strong current, after a happening with an ancestor around 1820) on 30 Oct 1997.",
+              "formatting": {
+                "bold": [
+                  "Maʻafu"
+                ],
+                "italic": [
+                  "Maʻafu put in the strong current"
+                ]
+              }
             }
           ]
         },
@@ -192,6 +203,23 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He died in Auckland, New Zealand on 12 December 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Auckland"
+                },
+                {
+                  "type": "internal",
+                  "page": "New Zealand"
+                }
+              ]
+            }
+          ]
         }
       ],
       "templates": [
@@ -269,6 +297,9 @@
           "term_start": {
             "text": "4 January 2011"
           },
+          "term_end": {
+            "text": "12 December 2021"
+          },
           "predecessor": {
             "text": "Lord Tuita",
             "links": [
@@ -317,8 +348,27 @@
           "term_start5": {
             "text": "23 April 2008"
           },
+          "term_end5": {
+            "text": "12 December 2021"
+          },
           "birth_date": {
             "text": "1955 (age 66)"
+          },
+          "death_date": {
+            "text": "12 December 2021"
+          },
+          "death_place": {
+            "text": "Auckland, New Zealand",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Auckland"
+              },
+              {
+                "type": "internal",
+                "page": "New Zealand"
+              }
+            ]
           },
           "party": {
             "text": "none (Nobles' Representative)"
@@ -348,22 +398,13 @@
           "inline": {}
         },
         {
+          "url": "http://www.pireport.org/articles/2008/04/24/tuihaangana-loses-seat-tonga-nobles-race",
+          "title": "TUIHAANGANA LOSES SEAT IN TONGA NOBLES RACE",
+          "publisher": "Pacific Islands Report",
+          "date": "24 April 2008",
+          "access-date": "13 December 2021",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "template": "citation",
@@ -440,6 +481,35 @@
           "publisher": "Government of Tonga",
           "date": "10 October 2019",
           "accessdate": "15 June 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.stuff.co.nz/national/127266149/tongas-deputy-prime-minister-lord-maafu-dies-in-auckland",
+          "title": "Tonga's deputy prime minister Lord Ma'afu dies in Auckland",
+          "author": "Torika Tokalau",
+          "publisher": "Stuff",
+          "date": "13 December 2021",
+          "access-date": "13 December 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.rnz.co.nz/news/national/457802/tonga-s-deputy-pm-lord-ma-afu-dies-in-auckland-hospital",
+          "title": "Tonga’s deputy PM Lord Ma’afu dies in Auckland Hospital",
+          "publisher": "RNZ",
+          "date": "13 December 2021",
+          "access-date": "13 December 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.parliament.gov.to/about-parliament/members/ministers/141-lord-maafu-tukuiaulahi.html",
+          "title": "Lord Ma'afu Tukui'aulahi",
+          "publisher": "Parliament of Tonga",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20111009021639/http://www.parliament.gov.to/about-parliament/members/ministers/141-lord-maafu-tukuiaulahi.html",
+          "archive-date": "9 October 2011",
           "template": "citation",
           "type": "web"
         }
