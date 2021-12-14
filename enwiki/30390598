@@ -18,7 +18,16 @@
         {
           "sentences": [
             {
-              "text": "Siosaia Lausiʻi, also known as Lord Maʻafu (of Vaini) (died 12 December 2021), was a Tongan politician, former military officer, and member of the Tongan nobility.",
+              "text": "Siosaia Lausiʻi, also known as Lord Maʻafu (of Vaini) (c.",
+              "formatting": {
+                "bold": [
+                  "Siosaia Lausiʻi",
+                  "Lord Maʻafu"
+                ]
+              }
+            },
+            {
+              "text": "undefined 1955 – 12 December 2021), was a Tongan politician, military officer, and member of the Tongan nobility.",
               "links": [
                 {
                   "text": "Tongan",
@@ -31,192 +40,6 @@
                   "page": "Culture of Tonga",
                   "anchor": "Rank and status"
                 }
-              ],
-              "formatting": {
-                "bold": [
-                  "Siosaia Lausiʻi",
-                  "Lord Maʻafu"
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He enrolled in the Tonga Defence Services on 3 March 1975, and was commissioned \"the same year to become Platoon Commander of the Tonga Royal Guards\".",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Tonga Defence Services"
-                }
-              ]
-            },
-            {
-              "text": "He served as a commissioned officer, rising to the rank of Commanding Officer of Land Force in 2000, before serving as Private Secretary to King Taufaʻahau Tupou IV from 2001 to 2006.",
-              "links": [
-                {
-                  "text": "commissioned officer",
-                  "type": "internal",
-                  "page": "commissioned officer"
-                },
-                {
-                  "text": "King",
-                  "type": "internal",
-                  "page": "List of monarchs of Tonga"
-                },
-                {
-                  "type": "internal",
-                  "page": "Taufaʻahau Tupou IV"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He was installed with the noble title 10th Maʻafu (shortened for Maʻafu Tukuʻiʻaulahi, meaning Maʻafu put in the strong current, after a happening with an ancestor around 1820) on 30 Oct 1997.",
-              "formatting": {
-                "bold": [
-                  "Maʻafu"
-                ],
-                "italic": [
-                  "Maʻafu put in the strong current"
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He went into politics in 2008, elected to the Legislative Assembly as a Nobles' Representative for Tongatapu, receiving ten votes from fellow electors of the nobility in the general election in April.",
-              "links": [
-                {
-                  "text": "Legislative Assembly",
-                  "type": "internal",
-                  "page": "Legislative Assembly of Tonga"
-                },
-                {
-                  "type": "internal",
-                  "page": "Tongatapu"
-                },
-                {
-                  "text": "general election in April",
-                  "type": "internal",
-                  "page": "2008 Tongan general election"
-                }
-              ]
-            },
-            {
-              "text": "In July 2009, he was appointed Minister for the Environment and Climate Change in Prime Minister Feleti Sevele's Cabinet.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Feleti Sevele"
-                },
-                {
-                  "text": "Cabinet",
-                  "type": "internal",
-                  "page": "Tongan Cabinet"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He retained his seat in the November 2010 general election, again receiving ten votes.",
-              "links": [
-                {
-                  "text": "November 2010 general election",
-                  "type": "internal",
-                  "page": "2010 Tongan general election"
-                }
-              ]
-            },
-            {
-              "text": "He was then appointed Minister for Lands, Survey, Natural Resources, Environment and Climate Change in Prime Minister Lord Tuʻivakanō's Cabinet; legislation enacted in 2010 prescribed that only a Nobles' Representative could be appointed Minister for Lands.",
-              "links": [
-                {
-                  "text": "Lord Tuʻivakanō",
-                  "type": "internal",
-                  "page": "Sialeʻataongo Tuʻivakanō"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Following the 2014 election he was reappointed as Minister of lands, becoming the only noble representative in the cabinet of ʻAkilisi Pōhiva.",
-              "links": [
-                {
-                  "text": "2014 election",
-                  "type": "internal",
-                  "page": "2014 Tongan general election"
-                },
-                {
-                  "text": "ʻAkilisi Pōhiva",
-                  "type": "internal",
-                  "page": "ʻAkilisi Pōhiva"
-                }
-              ]
-            },
-            {
-              "text": "In February 2017 he was ostracised by Tonga's nobles for his participation in Cabinet."
-            },
-            {
-              "text": "In September 2017 he was appointed Deputy Prime Minister."
-            },
-            {
-              "text": "He returned to Cabinet following the DPFI's landslide in the 2017 election, but resigned in March 2018 after a dispute with Minister of Police Mateni Tapueluelu.",
-              "links": [
-                {
-                  "text": "2017 election",
-                  "type": "internal",
-                  "page": "2017 Tongan general election"
-                },
-                {
-                  "type": "internal",
-                  "page": "Mateni Tapueluelu"
-                }
-              ]
-            },
-            {
-              "text": "He rejoined Cabinet in May with the same portfolios."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In October 2019 he was appointed Minister for Lands and Natural Resources and Minister for His Majesty’s Armed Forces in the cabinet of Pohiva Tuʻiʻonetoa.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Pohiva Tuʻiʻonetoa"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He died in Auckland, New Zealand on 12 December 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Auckland"
-                },
-                {
-                  "type": "internal",
-                  "page": "New Zealand"
-                }
               ]
             }
           ]
@@ -224,11 +47,22 @@
       ],
       "templates": [
         {
+          "description": "Tongan politician and noble",
+          "template": "short description"
+        },
+        {
+          "date": "December 2021",
+          "template": "use dmy dates"
+        },
+        {
           "template": "okina"
         },
         {
-          "birth_year": "1955",
-          "template": "birth year and age"
+          "year": "2021",
+          "month": "12",
+          "day": "12",
+          "age": "66",
+          "template": "death date and given age"
         },
         {
           "template": "okina"
@@ -352,10 +186,20 @@
             "text": "12 December 2021"
           },
           "birth_date": {
-            "text": "1955 (age 66)"
+            "text": "c. undefined 1955"
+          },
+          "birth_place": {
+            "text": "Tonga",
+            "links": [
+              {
+                "text": "Tonga",
+                "type": "internal",
+                "page": "Kingdom of Tonga (1900–1970)"
+              }
+            ]
           },
           "death_date": {
-            "text": "12 December 2021"
+            "text": "December 12, 2021"
           },
           "death_place": {
             "text": "Auckland, New Zealand",
@@ -363,10 +207,6 @@
               {
                 "type": "internal",
                 "page": "Auckland"
-              },
-              {
-                "type": "internal",
-                "page": "New Zealand"
               }
             ]
           },
@@ -392,124 +232,11 @@
           "inline": {}
         },
         {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.pireport.org/articles/2008/04/24/tuihaangana-loses-seat-tonga-nobles-race",
-          "title": "TUIHAANGANA LOSES SEAT IN TONGA NOBLES RACE",
-          "publisher": "Pacific Islands Report",
-          "date": "24 April 2008",
-          "access-date": "13 December 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.rnz.co.nz/international/pacific-news/262858/tonga-leader-names-one-noble-in-cabinet",
-          "title": "Tonga leader names one noble in Cabinet",
-          "publisher": "RNZ",
-          "date": "31 December 2014",
-          "accessdate": "15 June 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.rnz.co.nz/international/pacific-news/325452/tonga%27s-pohiva-survives-no-confidence-vote",
-          "title": "Tonga's Pohiva survives no confidence vote",
-          "publisher": "RNZ",
-          "date": "27 February 2017",
-          "accessdate": "15 June 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.pireport.org/articles/2017/09/06/lord-maafu-named-tonga-acting-prime-minister",
-          "title": "Lord Ma'afu Named Tonga Acting Prime Minister",
-          "publisher": "Pacific Islands Report",
-          "date": "6 September 2017",
-          "accessdate": "16 June 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11944912",
-          "title": "Landslide victory for Democrats in Tongan election",
-          "publisher": "New Zealand Herald",
-          "date": "16 November 2017",
-          "accessdate": "15 June 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.rnz.co.nz/international/pacific-news/357600/tonga-s-lord-ma-afu-returns-to-cabinet",
-          "title": "Tonga's Lord Ma'afu returns to Cabinet",
-          "publisher": "RNZ",
-          "date": "17 May 2018",
-          "accessdate": "16 June 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://pmo.gov.to/index.php/2019/10/10/prime-minister-announces-new-cabinet-ministers/",
-          "title": "“Prime Minister Announces New Cabinet Ministers”",
-          "publisher": "Government of Tonga",
-          "date": "10 October 2019",
-          "accessdate": "15 June 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.stuff.co.nz/national/127266149/tongas-deputy-prime-minister-lord-maafu-dies-in-auckland",
-          "title": "Tonga's deputy prime minister Lord Ma'afu dies in Auckland",
-          "author": "Torika Tokalau",
-          "publisher": "Stuff",
-          "date": "13 December 2021",
-          "access-date": "13 December 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "url": "https://www.rnz.co.nz/news/national/457802/tonga-s-deputy-pm-lord-ma-afu-dies-in-auckland-hospital",
           "title": "Tonga’s deputy PM Lord Ma’afu dies in Auckland Hospital",
           "publisher": "RNZ",
           "date": "13 December 2021",
           "access-date": "13 December 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.parliament.gov.to/about-parliament/members/ministers/141-lord-maafu-tukuiaulahi.html",
-          "title": "Lord Ma'afu Tukui'aulahi",
-          "publisher": "Parliament of Tonga",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20111009021639/http://www.parliament.gov.to/about-parliament/members/ministers/141-lord-maafu-tukuiaulahi.html",
-          "archive-date": "9 October 2011",
           "template": "citation",
           "type": "web"
         }
