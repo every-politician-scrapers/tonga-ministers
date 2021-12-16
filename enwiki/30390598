@@ -18,10 +18,10 @@
         {
           "sentences": [
             {
-              "text": "Siosaia Lausiʻi, also known as Lord Maʻafu (of Vaini) (c.",
+              "text": "Siosaia Lausiʻi, Lord Maʻafu Tukuiʻaulahi, also known as Lord Maʻafu (of Vaini) (c.",
               "formatting": {
                 "bold": [
-                  "Siosaia Lausiʻi",
+                  "Siosaia Lausiʻi, Lord Maʻafu Tukuiʻaulahi",
                   "Lord Maʻafu"
                 ]
               }
@@ -226,10 +226,15 @@
       ],
       "references": [
         {
+          "url": "https://matangitonga.to/2021/12/13/deputy-pm-ma-afu-dies",
+          "title": "Deputy PM Lord Ma’afu dies in Auckland",
+          "publisher": "Matangi Tonga",
+          "date": "13 December 2021",
+          "access-date": "14 December 2021",
+          "archive-url": "https://web.archive.org/web/20211213221108/https://matangitonga.to/2021/12/13/deputy-pm-ma-afu-dies",
+          "archive-date": "13 December 2021",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "url": "https://www.rnz.co.nz/news/national/457802/tonga-s-deputy-pm-lord-ma-afu-dies-in-auckland-hospital",
