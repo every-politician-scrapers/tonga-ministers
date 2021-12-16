@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Pohiva Tu’i’onetoa (born 30 June 1951 ) is a Tongan accountant and politician serving as the current prime minister of Tonga since 2019.",
+              "text": "Pohiva Tu’i’onetoa (born 30 June 1951 ) is a Tongan accountant and politician who has served as the 17th Prime Minister of Tonga since 2019.",
               "links": [
                 {
                   "text": "Tongan",
@@ -27,7 +27,6 @@
                   "page": "Tonga"
                 },
                 {
-                  "text": "prime minister of Tonga",
                   "type": "internal",
                   "page": "Prime Minister of Tonga"
                 }
@@ -98,6 +97,15 @@
           "template": "use dmy dates"
         },
         {
+          "list": [
+            "Other offices held"
+          ],
+          "template": "collapsed infobox section begin"
+        },
+        {
+          "template": "collapsed infobox section end"
+        },
+        {
           "year": "1951",
           "month": "6",
           "day": "30",
@@ -143,6 +151,9 @@
               }
             ]
           },
+          "term_start": {
+            "text": "8 October 2019"
+          },
           "deputy": {
             "text": "Semisi Sika Sione Vuna Fa'otusia",
             "links": [
@@ -161,10 +172,135 @@
               }
             ]
           },
-          "term_start": {
-            "text": "8 October 2019"
+          "successor": {
+            "text": "Siaosi Sovaleni (Designate)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Siaosi Sovaleni"
+              }
+            ]
           },
-          "constituency_mp5": {
+          "office6": {
+            "text": "Minister for Public Enterprises"
+          },
+          "term_start6": {
+            "text": "10 October 2019"
+          },
+          "term_end6": {
+            "text": "15 December 2021"
+          },
+          "primeminister6": {
+            "text": "Himself"
+          },
+          "office7": {
+            "text": "Minister of Finance",
+            "links": [
+              {
+                "text": "Minister of Finance",
+                "type": "internal",
+                "page": "Minister of Finance (Tonga)"
+              }
+            ]
+          },
+          "term_start7": {
+            "text": "4 January 2018"
+          },
+          "term_end7": {
+            "text": "10 October 2019"
+          },
+          "primeminister7": {
+            "text": "ʻAkilisi Pōhiva",
+            "links": [
+              {
+                "text": "ʻAkilisi Pōhiva",
+                "type": "internal",
+                "page": "ʻAkilisi Pōhiva"
+              }
+            ]
+          },
+          "predecessor7": {
+            "text": "Tevita Lavemaau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tevita Lavemaau"
+              }
+            ]
+          },
+          "successor7": {
+            "text": "Tevita Lavemaau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tevita Lavemaau"
+              }
+            ]
+          },
+          "office8": {
+            "text": "Minister of of Labour, Commerce and Industries"
+          },
+          "term_start8": {
+            "text": "30 December 2014"
+          },
+          "term_end8": {
+            "text": "4 January 2018"
+          },
+          "successor8": {
+            "text": "Tevita Tu'i Uata",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tevita Tu'i Uata"
+              }
+            ]
+          },
+          "office9": {
+            "text": "Minister for Revenue and Customs"
+          },
+          "term_start9": {
+            "text": "6 March 2017"
+          },
+          "term_end9": {
+            "text": "September 2017"
+          },
+          "predecessor9": {
+            "text": "Tevita Lavemaau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tevita Lavemaau"
+              }
+            ]
+          },
+          "successor9": {
+            "text": "Mateni Tapueluelu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mateni Tapueluelu"
+              }
+            ]
+          },
+          "office10": {
+            "text": "Police, Prisons and Fire Services"
+          },
+          "term_start10": {
+            "text": "30 December 2014"
+          },
+          "term_end10": {
+            "text": "6 March 2017"
+          },
+          "successor10": {
+            "text": "Mateni Tapueluelu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mateni Tapueluelu"
+              }
+            ]
+          },
+          "constituency_mp15": {
             "text": "Tongatapu 10",
             "links": [
               {
@@ -173,13 +309,13 @@
               }
             ]
           },
-          "parliament5": {
+          "parliament15": {
             "text": "Tongan"
           },
-          "term_start5": {
+          "term_start15": {
             "text": "27 November 2014"
           },
-          "predecessor5": {
+          "predecessor15": {
             "text": "Semisi Tapueluelu",
             "links": [
               {
