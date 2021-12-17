@@ -62,13 +62,8 @@
           "month": "12",
           "day": "12",
           "age": "66",
+          "df": "y",
           "template": "death date and given age"
-        },
-        {
-          "template": "okina"
-        },
-        {
-          "template": "okina"
         },
         {
           "template": "okina"
@@ -98,19 +93,54 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "Maʻafu"
+            "text": "Lord"
           },
           "name": {
-            "text": "Siosaia Lausiʻi"
+            "text": "Maʻafu Tukuiʻaulahi"
           },
           "image": {
             "text": "Lord Ma’afu.jpg"
           },
           "office": {
-            "text": "Minister for Lands, Survey, Natural Resources"
+            "text": "Deputy Prime Minister of Tonga"
           },
           "primeminister": {
-            "text": "Lord Tuʻivakanō, ʻAkilisi Pōhiva, Pohiva Tuʻiʻonetoa",
+            "text": "Pōhiva Tuʻiʻonetoa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pōhiva Tuʻiʻonetoa"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "16 December 2020"
+          },
+          "term_end": {
+            "text": "12 December 2021"
+          },
+          "predecessor": {
+            "text": "Sione Vuna Fa'otusia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sione Vuna Fa'otusia"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Vacant",
+            "formatting": {
+              "italic": [
+                "Vacant"
+              ]
+            }
+          },
+          "office1": {
+            "text": "Minister for Lands, Survey, Natural Resources"
+          },
+          "primeminister1": {
+            "text": "Lord Tuʻivakanō ʻAkilisi Pōhiva Pohiva Tuʻiʻonetoa",
             "links": [
               {
                 "text": "Lord Tuʻivakanō",
@@ -128,13 +158,13 @@
               }
             ]
           },
-          "term_start": {
+          "term_start1": {
             "text": "4 January 2011"
           },
-          "term_end": {
+          "term_end1": {
             "text": "12 December 2021"
           },
-          "predecessor": {
+          "predecessor1": {
             "text": "Lord Tuita",
             "links": [
               {
@@ -154,7 +184,7 @@
             "text": "30 December 2014"
           },
           "primeminister2": {
-            "text": "Feleti Sevele, Lord Tuʻivakanō",
+            "text": "Feleti Sevele Lord Tuʻivakanō",
             "links": [
               {
                 "type": "internal",
@@ -185,6 +215,9 @@
           "term_end5": {
             "text": "12 December 2021"
           },
+          "birth_name": {
+            "text": "Siosaia Lausiʻi"
+          },
           "birth_date": {
             "text": "c. undefined 1955"
           },
@@ -210,11 +243,8 @@
               }
             ]
           },
-          "party": {
-            "text": "none (Nobles' Representative)"
-          },
           "children": {
-            "text": "Hon. Tevita Unga Lausii\nHon. Lavinia Fangaaka Lausii"
+            "text": "Hon. Tevita Unga\nHon. Lavinia Fangaaka"
           },
           "spouse": {
             "text": "Princess Lavinia Mataotahone Tukuaho"
