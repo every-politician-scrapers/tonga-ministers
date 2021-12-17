@@ -40,9 +40,18 @@
       ],
       "templates": [
         {
+          "description": "Tongan politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2021",
+          "template": "use dmy dates"
+        },
+        {
           "year": "1952",
           "month": "12",
           "day": "24",
+          "df": "y",
           "template": "birth date and age"
         }
       ],
@@ -112,7 +121,7 @@
             ]
           },
           "office7": {
-            "text": "Deputy Prime Minister"
+            "text": "Deputy Prime Minister of Tonga"
           },
           "term_start7": {
             "text": "5 January 2011"
@@ -225,7 +234,14 @@
             "text": "December 24, 1952"
           },
           "party": {
-            "text": "None"
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
           }
         }
       ],
