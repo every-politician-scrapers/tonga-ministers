@@ -1,5 +1,5 @@
 {
-  "title": "Pohiva Tuʻiʻonetoa",
+  "title": "Pōhiva Tuʻiʻonetoa",
   "pageID": 62154852,
   "categories": [
     "1961 births",
@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Pohiva Tu’i’onetoa (born 30 June 1951 ) is a Tongan accountant and politician who has served as the 17th Prime Minister of Tonga since 2019.",
+              "text": "Pōhiva Tu’i’onetoa (born 30 June 1951 ) is a Tongan accountant and politician who has served as the 17th Prime Minister of Tonga since 2019.",
               "links": [
                 {
                   "text": "Tongan",
@@ -33,7 +33,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Pohiva Tu’i’onetoa"
+                  "Pōhiva Tu’i’onetoa"
                 ]
               }
             },
@@ -124,14 +124,11 @@
               }
             ]
           },
-          "name": {
-            "text": "Pōhiva Tu'i'onetoa"
-          },
           "image": {
             "text": "Pohiva Tuʻiʻonetoa (cropped).jpg"
           },
           "caption": {
-            "text": "Pohiva Tu’i’onetoa in 2020"
+            "text": "Pōhiva Tu’i’onetoa in 2020"
           },
           "office": {
             "text": "17th Prime Minister of Tonga",
@@ -155,16 +152,21 @@
             "text": "8 October 2019"
           },
           "deputy": {
-            "text": "Semisi Sika Sione Vuna Fa'otusia",
+            "text": "Semisi Sika Sione Vuna Fa'otusia Lord Maʻafu",
             "links": [
               {
                 "type": "internal",
                 "page": "Sione Vuna Fa'otusia"
+              },
+              {
+                "text": "Lord Maʻafu",
+                "type": "internal",
+                "page": "Maʻafu Tukuiʻaulahi"
               }
             ]
           },
           "predecessor": {
-            "text": "Semisi Sika (Acting)",
+            "text": "Semisi Sika (acting)",
             "links": [
               {
                 "type": "internal",
@@ -173,7 +175,7 @@
             ]
           },
           "successor": {
-            "text": "Siaosi Sovaleni (Designate)",
+            "text": "Siaosi Sovaleni (designate)",
             "links": [
               {
                 "type": "internal",
@@ -186,9 +188,6 @@
           },
           "term_start6": {
             "text": "10 October 2019"
-          },
-          "term_end6": {
-            "text": "15 December 2021"
           },
           "primeminister6": {
             "text": "Himself"
@@ -229,16 +228,10 @@
             ]
           },
           "successor7": {
-            "text": "Tevita Lavemaau",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tevita Lavemaau"
-              }
-            ]
+            "text": "Tevita Lavemaau"
           },
           "office8": {
-            "text": "Minister of of Labour, Commerce and Industries"
+            "text": "Minister of Labour, Commerce and Industries"
           },
           "term_start8": {
             "text": "30 December 2014"
@@ -265,13 +258,7 @@
             "text": "September 2017"
           },
           "predecessor9": {
-            "text": "Tevita Lavemaau",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tevita Lavemaau"
-              }
-            ]
+            "text": "Tevita Lavemaau"
           },
           "successor9": {
             "text": "Mateni Tapueluelu",
@@ -337,7 +324,14 @@
             "text": "June 30, 1951"
           },
           "birth_place": {
-            "text": "Talafo’ou, Tonga"
+            "text": "Talafo’ou, Tonga",
+            "links": [
+              {
+                "text": "Tonga",
+                "type": "internal",
+                "page": "Kingdom of Tonga (1900–1970)"
+              }
+            ]
           },
           "alma_mater": {
             "text": "Monash University\nInstitute of Certified Management Accountants",

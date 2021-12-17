@@ -30,6 +30,11 @@
                   "page": "Tonga"
                 },
                 {
+                  "text": "Cabinet Minister",
+                  "type": "internal",
+                  "page": "Cabinet of Tonga"
+                },
+                {
                   "type": "internal",
                   "page": "Legislative Assembly of Tonga"
                 },
@@ -102,25 +107,19 @@
             "text": "December 2021"
           },
           "succeeding": {
-            "text": "Pohiva Tuʻiʻonetoa",
+            "text": "Pōhiva Tuʻiʻonetoa",
             "links": [
               {
                 "type": "internal",
-                "page": "Pohiva Tuʻiʻonetoa"
+                "page": "Pōhiva Tuʻiʻonetoa"
               }
             ]
           },
           "office2": {
-            "text": "Minister for Education & Training"
+            "text": "Minister of Education and Training"
           },
           "primeminister2": {
-            "text": "Pohiva Tuʻiʻonetoa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pohiva Tuʻiʻonetoa"
-              }
-            ]
+            "text": "Pōhiva Tuʻiʻonetoa"
           },
           "term_start2": {
             "text": "10 October 2019"
@@ -200,6 +199,9 @@
               }
             ]
           },
+          "parliament5": {
+            "text": "Tongan"
+          },
           "constituency_mp5": {
             "text": "Tongatapu 3",
             "links": [
@@ -261,7 +263,7 @@
         {
           "title": "Siaosi 'Ofakivahafolau Sovaleni",
           "url": "https://parliament.gov.to/members-of-parliament/peoples/325-siaosi-ofakivahafolau-sovaleni",
-          "access-date": "2021-01-13",
+          "access-date": "13 January 2021",
           "website": "parliament.gov.to",
           "template": "citation",
           "type": "web"
