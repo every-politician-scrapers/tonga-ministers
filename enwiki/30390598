@@ -18,29 +18,28 @@
         {
           "sentences": [
             {
-              "text": "Siosaia Lausiʻi, Lord Maʻafu Tukuiʻaulahi, also known as Lord Maʻafu (of Vaini) (c.",
-              "formatting": {
-                "bold": [
-                  "Siosaia Lausiʻi, Lord Maʻafu Tukuiʻaulahi",
-                  "Lord Maʻafu"
-                ]
-              }
-            },
-            {
-              "text": "undefined 1955 – 12 December 2021), was a Tongan politician, military officer, and member of the Tongan nobility.",
+              "text": "Siosaia Lausiʻi, Lord Maʻafu Tukuiʻaulahi, also known as Lord Maʻafu (of Vaini and Tokomololo) (1 July 1955 – 12 December 2021), was a Tongan politician, military officer, and member of the Tongan nobility.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Vaini"
+                },
                 {
                   "text": "Tongan",
                   "type": "internal",
                   "page": "Tonga"
                 },
                 {
-                  "text": "Tongan nobility",
                   "type": "internal",
-                  "page": "Culture of Tonga",
-                  "anchor": "Rank and status"
+                  "page": "Tongan nobility"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Siosaia Lausiʻi, Lord Maʻafu Tukuiʻaulahi",
+                  "Lord Maʻafu"
+                ]
+              }
             }
           ]
         }
@@ -61,9 +60,13 @@
           "year": "2021",
           "month": "12",
           "day": "12",
-          "age": "66",
+          "list": [
+            "1955",
+            "7",
+            "1"
+          ],
           "df": "y",
-          "template": "death date and given age"
+          "template": "death date and age"
         },
         {
           "template": "okina"
@@ -219,7 +222,7 @@
             "text": "Siosaia Lausiʻi"
           },
           "birth_date": {
-            "text": "c. undefined 1955"
+            "text": "1 July 1955"
           },
           "birth_place": {
             "text": "Tonga",
@@ -267,11 +270,27 @@
           "type": "web"
         },
         {
+          "last": "Manase Lua",
+          "first": "Pakilau",
+          "date": "2021-12-18",
+          "title": "Obituary: Lord Ma'afu, deputy prime minister of Tonga, a chief who truly loved his people",
+          "url": "https://www.stuff.co.nz/world/south-pacific/127309625/obituary-lord-maafu-deputy-prime-minister-of-tonga-a-chief-who-truly-loved-his-people",
+          "url-status": "live",
+          "access-date": "2021-12-19",
+          "website": "Stuff",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "url": "https://www.rnz.co.nz/news/national/457802/tonga-s-deputy-pm-lord-ma-afu-dies-in-auckland-hospital",
           "title": "Tonga’s deputy PM Lord Ma’afu dies in Auckland Hospital",
           "publisher": "RNZ",
           "date": "13 December 2021",
           "access-date": "13 December 2021",
+          "archive-date": "13 December 2021",
+          "archive-url": "https://web.archive.org/web/20211213004054/https://www.rnz.co.nz/news/national/457802/tonga-s-deputy-pm-lord-ma-afu-dies-in-auckland-hospital",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         }

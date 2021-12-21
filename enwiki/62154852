@@ -19,7 +19,26 @@
         {
           "sentences": [
             {
-              "text": "Pōhiva Tu’i’onetoa (born 30 June 1951 ) is a Tongan accountant and politician who has served as the 17th Prime Minister of Tonga since 2019.",
+              "text": "{{Infobox officeholder"
+            },
+            {
+              "text": "{{Collapsed infobox section begin|Other offices held|titlestyle=background-color:#eee}}}"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Institute of Certified Management Accountants",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Institute of Certified Management Accountants"
+                }
+              ]
+            },
+            {
+              "text": "}}Pōhiva Tu’i’onetoa (born 30 June 1951 ) is a Tongan accountant and politician who has served as the 17th Prime Minister of Tonga since 2019.",
               "links": [
                 {
                   "text": "Tongan",
@@ -97,12 +116,6 @@
           "template": "use dmy dates"
         },
         {
-          "list": [
-            "Other offices held"
-          ],
-          "template": "collapsed infobox section begin"
-        },
-        {
           "template": "collapsed infobox section end"
         },
         {
@@ -113,10 +126,10 @@
           "template": "birth date and age"
         }
       ],
-      "infoboxes": [
-        {
-          "honorific_prefix": {
-            "text": "The Honourable",
+      "lists": [
+        [
+          {
+            "text": "honorific_prefix   = The Honourable",
             "links": [
               {
                 "type": "internal",
@@ -124,14 +137,14 @@
               }
             ]
           },
-          "image": {
-            "text": "Pohiva Tuʻiʻonetoa (cropped).jpg"
+          {
+            "text": "image              = Pohiva Tuʻiʻonetoa (cropped).jpg"
           },
-          "caption": {
-            "text": "Pōhiva Tu’i’onetoa in 2020"
+          {
+            "text": "caption            = Pōhiva Tu’i’onetoa in 2020"
           },
-          "office": {
-            "text": "17th Prime Minister of Tonga",
+          {
+            "text": "office             = 17th Prime Minister of Tonga",
             "links": [
               {
                 "type": "internal",
@@ -139,8 +152,8 @@
               }
             ]
           },
-          "monarch": {
-            "text": "Tupou VI",
+          {
+            "text": "monarch            = Tupou VI",
             "links": [
               {
                 "type": "internal",
@@ -148,11 +161,14 @@
               }
             ]
           },
-          "term_start": {
-            "text": "8 October 2019"
+          {
+            "text": "term_start         = 8 October 2019"
           },
-          "deputy": {
-            "text": "Semisi Sika Sione Vuna Fa'otusia Lord Maʻafu",
+          {
+            "text": "term_end           ="
+          },
+          {
+            "text": "deputy             = Semisi Sika Sione Vuna Fa'otusia Lord Maʻafu",
             "links": [
               {
                 "type": "internal",
@@ -165,8 +181,8 @@
               }
             ]
           },
-          "predecessor": {
-            "text": "Semisi Sika (acting)",
+          {
+            "text": "predecessor        = Semisi Sika (acting)",
             "links": [
               {
                 "type": "internal",
@@ -174,8 +190,8 @@
               }
             ]
           },
-          "successor": {
-            "text": "Siaosi Sovaleni (designate)",
+          {
+            "text": "successor          = Siaosi Sovaleni (designate)",
             "links": [
               {
                 "type": "internal",
@@ -183,17 +199,46 @@
               }
             ]
           },
-          "office6": {
-            "text": "Minister for Public Enterprises"
+          {
+            "text": "office1            = Leader of the Tonga People's Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tonga People's Party"
+              }
+            ]
           },
-          "term_start6": {
-            "text": "10 October 2019"
+          {
+            "text": "term_start1        = 20 September 2019"
           },
-          "primeminister6": {
-            "text": "Himself"
+          {
+            "text": "term_end1          ="
           },
-          "office7": {
-            "text": "Minister of Finance",
+          {
+            "text": "predecessor1       = Party established"
+          }
+        ],
+        [
+          {
+            "text": "office6            = Minister for Public Enterprises"
+          },
+          {
+            "text": "term_start6        = 10 October 2019"
+          },
+          {
+            "text": "term_end6          ="
+          },
+          {
+            "text": "primeminister6     = Himself"
+          },
+          {
+            "text": "predecessor6       ="
+          },
+          {
+            "text": "successor6         ="
+          },
+          {
+            "text": "office7            = Minister of Finance",
             "links": [
               {
                 "text": "Minister of Finance",
@@ -202,14 +247,14 @@
               }
             ]
           },
-          "term_start7": {
-            "text": "4 January 2018"
+          {
+            "text": "term_start7        = 4 January 2018"
           },
-          "term_end7": {
-            "text": "10 October 2019"
+          {
+            "text": "term_end7          = 10 October 2019"
           },
-          "primeminister7": {
-            "text": "ʻAkilisi Pōhiva",
+          {
+            "text": "primeminister7     = ʻAkilisi Pōhiva",
             "links": [
               {
                 "text": "ʻAkilisi Pōhiva",
@@ -218,8 +263,8 @@
               }
             ]
           },
-          "predecessor7": {
-            "text": "Tevita Lavemaau",
+          {
+            "text": "predecessor7       = Tevita Lavemaau",
             "links": [
               {
                 "type": "internal",
@@ -227,20 +272,26 @@
               }
             ]
           },
-          "successor7": {
-            "text": "Tevita Lavemaau"
+          {
+            "text": "successor7         = Tevita Lavemaau"
           },
-          "office8": {
-            "text": "Minister of Labour, Commerce and Industries"
+          {
+            "text": "office8            = Minister of Labour, Commerce and Industries"
           },
-          "term_start8": {
-            "text": "30 December 2014"
+          {
+            "text": "term_start8        = 30 December 2014"
           },
-          "term_end8": {
-            "text": "4 January 2018"
+          {
+            "text": "term_end8          = 4 January 2018"
           },
-          "successor8": {
-            "text": "Tevita Tu'i Uata",
+          {
+            "text": "primeminister8     ="
+          },
+          {
+            "text": "predecessor8       ="
+          },
+          {
+            "text": "successor8         = Tevita Tu'i Uata",
             "links": [
               {
                 "type": "internal",
@@ -248,20 +299,23 @@
               }
             ]
           },
-          "office9": {
-            "text": "Minister for Revenue and Customs"
+          {
+            "text": "office9            = Minister for Revenue and Customs"
           },
-          "term_start9": {
-            "text": "6 March 2017"
+          {
+            "text": "term_start9        = 6 March 2017"
           },
-          "term_end9": {
-            "text": "September 2017"
+          {
+            "text": "term_end9          = September 2017"
           },
-          "predecessor9": {
-            "text": "Tevita Lavemaau"
+          {
+            "text": "primeminister9     ="
           },
-          "successor9": {
-            "text": "Mateni Tapueluelu",
+          {
+            "text": "predecessor9       = Tevita Lavemaau"
+          },
+          {
+            "text": "successor9         = Mateni Tapueluelu",
             "links": [
               {
                 "type": "internal",
@@ -269,26 +323,34 @@
               }
             ]
           },
-          "office10": {
-            "text": "Police, Prisons and Fire Services"
+          {
+            "text": "office10            = Police, Prisons and Fire Services"
           },
-          "term_start10": {
-            "text": "30 December 2014"
+          {
+            "text": "term_start10        = 30 December 2014"
           },
-          "term_end10": {
-            "text": "6 March 2017"
+          {
+            "text": "term_end10          = 6 March 2017"
           },
-          "successor10": {
-            "text": "Mateni Tapueluelu",
+          {
+            "text": "primeminister10     ="
+          },
+          {
+            "text": "predecessor10       ="
+          },
+          {
+            "text": "successor10         = Mateni Tapueluelu",
             "links": [
               {
                 "type": "internal",
                 "page": "Mateni Tapueluelu"
               }
             ]
-          },
-          "constituency_mp15": {
-            "text": "Tongatapu 10",
+          }
+        ],
+        [
+          {
+            "text": "constituency_MP15    = Tongatapu 10",
             "links": [
               {
                 "type": "internal",
@@ -296,14 +358,17 @@
               }
             ]
           },
-          "parliament15": {
-            "text": "Tongan"
+          {
+            "text": "parliament15         = Tongan"
           },
-          "term_start15": {
-            "text": "27 November 2014"
+          {
+            "text": "term_start15         = 27 November 2014"
           },
-          "predecessor15": {
-            "text": "Semisi Tapueluelu",
+          {
+            "text": "term_end15           ="
+          },
+          {
+            "text": "predecessor15        = Semisi Tapueluelu",
             "links": [
               {
                 "type": "internal",
@@ -311,8 +376,11 @@
               }
             ]
           },
-          "party": {
-            "text": "Tonga People's Party",
+          {
+            "text": "successor15          ="
+          },
+          {
+            "text": "party              = Tonga People's Party",
             "links": [
               {
                 "type": "internal",
@@ -320,11 +388,11 @@
               }
             ]
           },
-          "birth_date": {
-            "text": "June 30, 1951"
+          {
+            "text": "birth_date         = June 30, 1951"
           },
-          "birth_place": {
-            "text": "Talafo’ou, Tonga",
+          {
+            "text": "birth_place        = Talafo’ou, Tonga",
             "links": [
               {
                 "text": "Tonga",
@@ -333,23 +401,21 @@
               }
             ]
           },
-          "alma_mater": {
-            "text": "Monash University\nInstitute of Certified Management Accountants",
+          {
+            "text": "alma_mater         = Monash University",
             "links": [
               {
                 "type": "internal",
                 "page": "Monash University"
-              },
-              {
-                "type": "internal",
-                "page": "Institute of Certified Management Accountants"
               }
             ]
-          },
-          "nationality": {
-            "text": "Tongan"
           }
-        }
+        ],
+        [
+          {
+            "text": "nationality        = Tongan"
+          }
+        ]
       ],
       "references": [
         {
