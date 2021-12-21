@@ -2,11 +2,12 @@
   "title": "Vatau Hui",
   "pageID": 64335856,
   "categories": [
+    "1970 births",
     "Living people",
     "Members of the Legislative Assembly of Tonga",
     "Government ministers of Tonga",
     "Democratic Party of the Friendly Islands politicians",
-    "Year of birth missing (living people)"
+    "Tongan schoolteachers"
   ],
   "sections": [
     {
@@ -16,7 +17,7 @@
         {
           "sentences": [
             {
-              "text": "Vatau Mefi Hui is a Tongan politician and Member of the Legislative Assembly of Tonga",
+              "text": "Vatau Mefi Hui (born 1970) is a Tongan politician and Cabinet Minister.",
               "links": [
                 {
                   "text": "Tongan",
@@ -24,8 +25,9 @@
                   "page": "Tonga"
                 },
                 {
+                  "text": "Cabinet Minister",
                   "type": "internal",
-                  "page": "Legislative Assembly of Tonga"
+                  "page": "Cabinet of Tonga"
                 }
               ],
               "formatting": {
@@ -39,8 +41,15 @@
         {
           "sentences": [
             {
-              "text": "Hui was first elected to Parliament as part of the Democratic Party of the Friendly Islands's landslide victory at the 2017 Tongan general election.",
+              "text": "Hui worked in the education sector, as an assistant teacher at Niuatoutapu High School, then for the Ministry of Education and Tonga Institute of Education."
+            },
+            {
+              "text": "He was first elected to the Legislative Assembly of Tonga as part of the Democratic Party of the Friendly Islands's landslide victory at the 2017 Tongan general election.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Legislative Assembly of Tonga"
+                },
                 {
                   "type": "internal",
                   "page": "Democratic Party of the Friendly Islands"
@@ -195,6 +204,16 @@
           "url-status": "live",
           "archive-url": "https://web.archive.org/web/20211118122442/https://matangitonga.to/2021/11/19/tonga-elects-all-male-parliament-nine-new-peoples-reps",
           "archive-date": "18 November 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://parliament.gov.to/members-of-parliament/ministers/809-hon-vatau-hui",
+          "title": "Hon. Vatau Hui",
+          "publisher": "Legislative Assembly of Tonga",
+          "access-date": "18 December 2021",
+          "archive-url": "https://web.archive.org/web/20211211011638/https://parliament.gov.to/members-of-parliament/ministers/809-hon-vatau-hui",
+          "archive-date": "11 December 2021",
           "template": "citation",
           "type": "web"
         }

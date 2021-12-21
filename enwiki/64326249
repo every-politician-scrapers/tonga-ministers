@@ -2,17 +2,18 @@
   "title": "Siaosi Sovaleni",
   "pageID": 64326249,
   "categories": [
+    "1970 births",
+    "Alumni of the University of Oxford",
+    "Deputy Prime Ministers of Tonga",
+    "Government ministers of Tonga",
+    "Independent politicians in Tonga",
     "Living people",
     "Members of the Legislative Assembly of Tonga",
-    "Government ministers of Tonga",
-    "Deputy Prime Ministers of Tonga",
-    "University of Auckland alumni",
-    "Alumni of the University of Oxford",
-    "University of the South Pacific alumni",
-    "1970 births",
     "People from Tongatapu",
-    "Independent politicians in Tonga",
-    "Prime Ministers of Tonga"
+    "Prime Ministers of Tonga",
+    "University of Auckland alumni",
+    "University of the South Pacific alumni",
+    "Tongan chiefs"
   ],
   "sections": [
     {
@@ -58,12 +59,12 @@
       ],
       "templates": [
         {
-          "date": "December 2021",
-          "template": "use dmy dates"
+          "description": "Prime Minister–designate of Tonga",
+          "template": "short description"
         },
         {
-          "description": "Prime Minister-designate of Tonga",
-          "template": "short description"
+          "date": "December 2021",
+          "template": "use dmy dates"
         },
         {
           "year": "1970",
@@ -75,6 +76,15 @@
       ],
       "infoboxes": [
         {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
           "name": {
             "text": "Siaosi Sovaleni"
           },
