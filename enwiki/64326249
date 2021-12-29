@@ -23,24 +23,9 @@
         {
           "sentences": [
             {
-              "text": "Siaosi ‘Ofakivahafolau Sovaleni (born 28 February 1970) is a Tongan politician, Cabinet Minister, and Member of the Legislative Assembly of Tonga who is the prime minister-designate of Tonga.",
+              "text": "Siaosi ‘Ofakivahafolau Sovaleni (born 28 February 1970) is a Tongan politician who has served as the Prime Minister of Tonga since 2021.",
               "links": [
                 {
-                  "text": "Tongan",
-                  "type": "internal",
-                  "page": "Tonga"
-                },
-                {
-                  "text": "Cabinet Minister",
-                  "type": "internal",
-                  "page": "Cabinet of Tonga"
-                },
-                {
-                  "type": "internal",
-                  "page": "Legislative Assembly of Tonga"
-                },
-                {
-                  "text": "prime minister-designate",
                   "type": "internal",
                   "page": "Prime Minister of Tonga"
                 }
@@ -52,14 +37,21 @@
               }
             },
             {
-              "text": "From 2014 to 2017, he was Deputy Prime Minister of Tonga."
+              "text": ". He has previously served as a Cabinet Minister, and from 2014 to 2017, he was Deputy Prime Minister of Tonga.",
+              "links": [
+                {
+                  "text": "Cabinet Minister",
+                  "type": "internal",
+                  "page": "Cabinet of Tonga"
+                }
+              ]
             }
           ]
         }
       ],
       "templates": [
         {
-          "description": "Prime Minister–designate of Tonga",
+          "description": "Prime Minister of Tonga",
           "template": "short description"
         },
         {
@@ -95,10 +87,9 @@
             "text": "Siaosi Sovaleni in 2017"
           },
           "office": {
-            "text": "Prime Minister-designate of Tonga",
+            "text": "18th Prime Minister of Tonga",
             "links": [
               {
-                "text": "Prime Minister-designate of Tonga",
                 "type": "internal",
                 "page": "Prime Minister of Tonga"
               }
@@ -114,9 +105,9 @@
             ]
           },
           "term_start": {
-            "text": "December 2021"
+            "text": "27 December 2021"
           },
-          "succeeding": {
+          "predecessor": {
             "text": "Pōhiva Tuʻiʻonetoa",
             "links": [
               {
@@ -262,19 +253,21 @@
       ],
       "references": [
         {
-          "title": "Tonga elects new PM: Siaosi Sovaleni",
-          "url": "https://www.rnz.co.nz/international/pacific-news/457979/tonga-elects-new-pm-siaosi-sovaleni",
-          "access-date": "15 December 2021",
-          "agency": "RNZ",
-          "date": "15 December 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "title": "Siaosi 'Ofakivahafolau Sovaleni",
           "url": "https://parliament.gov.to/members-of-parliament/peoples/325-siaosi-ofakivahafolau-sovaleni",
           "access-date": "13 January 2021",
           "website": "parliament.gov.to",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://matangitonga.to/2021/12/28/king-appoints-newpm",
+          "title": "King Tupou VI appoints new Prime Minister",
+          "publisher": "Matangi Tonga",
+          "date": "28 December 2021",
+          "access-date": "28 December 2021",
+          "archive-url": "https://web.archive.org/web/20211228025031/https://matangitonga.to/2021/12/28/king-appoints-newpm",
+          "archive-date": "28 December 2021",
           "template": "citation",
           "type": "web"
         }
