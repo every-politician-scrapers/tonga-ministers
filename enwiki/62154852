@@ -38,7 +38,7 @@
               ]
             },
             {
-              "text": "}}Pōhiva Tu’i’onetoa (born 30 June 1951 ) is a Tongan accountant and politician who has served as the 17th Prime Minister of Tonga since 2019.",
+              "text": "}}Pōhiva Tu’i’onetoa (born 30 June 1951 ) is a Tongan accountant and politician who served as the 17th Prime Minister of Tonga from 2019 to 2021.",
               "links": [
                 {
                   "text": "Tongan",
@@ -108,7 +108,7 @@
       ],
       "templates": [
         {
-          "description": "Tongan prime minister",
+          "description": "Former prime minister of Tonga",
           "template": "short description"
         },
         {
@@ -165,7 +165,7 @@
             "text": "term_start         = 8 October 2019"
           },
           {
-            "text": "term_end           ="
+            "text": "term_end           = 27 December 2021"
           },
           {
             "text": "deputy             = Semisi Sika Sione Vuna Fa'otusia Lord Maʻafu",
@@ -191,7 +191,7 @@
             ]
           },
           {
-            "text": "successor          = Siaosi Sovaleni (designate)",
+            "text": "successor          = Siaosi Sovaleni",
             "links": [
               {
                 "type": "internal",
