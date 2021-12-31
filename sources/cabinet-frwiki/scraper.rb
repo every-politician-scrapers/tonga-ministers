@@ -5,8 +5,6 @@ require 'every_politician_scraper/scraper_data'
 require 'pry'
 require 'wikidata_ids_decorator'
 
-require 'open-uri/cached'
-
 class RemoveReferences < Scraped::Response::Decorator
   def body
     Nokogiri::HTML(super).tap do |doc|
