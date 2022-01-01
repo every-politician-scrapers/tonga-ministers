@@ -5,6 +5,7 @@
     "Living people",
     "Members of the Legislative Assembly of Tonga",
     "Government ministers of Tonga",
+    "Finance Ministers of Tonga",
     "Tongan civil servants",
     "1972 births"
   ],
@@ -22,6 +23,11 @@
                   "text": "Tongan",
                   "type": "internal",
                   "page": "Tonga"
+                },
+                {
+                  "text": "Cabinet Minister",
+                  "type": "internal",
+                  "page": "Cabinet of Tonga"
                 }
               ],
               "formatting": {
@@ -86,6 +92,20 @@
                   "page": "Legislative Assembly of Tonga"
                 }
               ]
+            },
+            {
+              "text": "On 28 December 2021 he was appointed to the Cabinet of Siaosi Sovaleni as Minister of Finance and Minister of Revenue and Customs.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Siaosi Sovaleni"
+                },
+                {
+                  "text": "Minister of Finance",
+                  "type": "internal",
+                  "page": "Minister of Finance (Tonga)"
+                }
+              ]
             }
           ]
         }
@@ -95,10 +115,56 @@
           "name": {
             "text": "Tatafu Moeaki"
           },
-          "office4": {
+          "office6": {
+            "text": "Minister of Finance",
+            "links": [
+              {
+                "text": "Minister of Finance",
+                "type": "internal",
+                "page": "Minister of Finance (Tonga)"
+              }
+            ]
+          },
+          "primeminister6": {
+            "text": "Siaosi Sovaleni",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Siaosi Sovaleni"
+              }
+            ]
+          },
+          "term_start6": {
+            "text": "28 December 2021"
+          },
+          "predecessor6": {
+            "text": "Tevita Lavemaau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tevita Lavemaau"
+              }
+            ]
+          },
+          "office7": {
+            "text": "Minister for Revenue and Customs"
+          },
+          "term_start7": {
+            "text": "28 December 2021"
+          },
+          "predecessor7": {
+            "text": "Tevita Lavemaau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tevita Lavemaau"
+              }
+            ]
+          },
+          "office8": {
             "text": "Minister for Trade and Economic Development"
           },
-          "primeminister4": {
+          "primeminister8": {
             "text": "Pohiva Tuʻiʻonetoa",
             "links": [
               {
@@ -107,15 +173,27 @@
               }
             ]
           },
-          "term_start4": {
+          "term_start8": {
             "text": "25 January 2021"
           },
-          "predecessor4": {
+          "term_end8": {
+            "text": "28 December 2021"
+          },
+          "predecessor8": {
             "text": "Samiu Vaipulu",
             "links": [
               {
                 "type": "internal",
                 "page": "Samiu Vaipulu"
+              }
+            ]
+          },
+          "successor8": {
+            "text": "Viliami Latu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Viliami Latu"
               }
             ]
           },
@@ -201,6 +279,17 @@
           "url-status": "live",
           "archive-url": "https://web.archive.org/web/20211118122442/https://matangitonga.to/2021/11/19/tonga-elects-all-male-parliament-nine-new-peoples-reps",
           "archive-date": "18 November 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://matangitonga.to/2021/12/29/pm-names-new-government",
+          "title": "PM names new government",
+          "publisher": "Matangi Tonga",
+          "date": "29 December 2021",
+          "access-date": "29 December 2021",
+          "archive-url": "https://web.archive.org/web/20211229094621/https://matangitonga.to/2021/12/29/pm-names-new-government",
+          "archive-date": "29 December 2021",
           "template": "citation",
           "type": "web"
         }
