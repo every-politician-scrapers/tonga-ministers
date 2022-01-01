@@ -5,12 +5,13 @@
     "1970 births",
     "Alumni of the University of Oxford",
     "Deputy Prime Ministers of Tonga",
+    "Prime Ministers of Tonga",
     "Government ministers of Tonga",
+    "Defence Ministers of Tonga",
     "Independent politicians in Tonga",
     "Living people",
     "Members of the Legislative Assembly of Tonga",
     "People from Tongatapu",
-    "Prime Ministers of Tonga",
     "University of Auckland alumni",
     "University of the South Pacific alumni",
     "Tongan chiefs"
@@ -37,7 +38,7 @@
               }
             },
             {
-              "text": ". He has previously served as a Cabinet Minister, and from 2014 to 2017, he was Deputy Prime Minister of Tonga.",
+              "text": "He has previously served as a Cabinet Minister, and from 2014 to 2017, he was Deputy Prime Minister of Tonga.",
               "links": [
                 {
                   "text": "Cabinet Minister",
@@ -57,6 +58,15 @@
         {
           "date": "December 2021",
           "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "Other offices held"
+          ],
+          "template": "collapsed infobox section begin"
+        },
+        {
+          "template": "collapsed infobox section end"
         },
         {
           "year": "1970",
@@ -104,6 +114,15 @@
               }
             ]
           },
+          "deputy": {
+            "text": "Poasi Tei",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Poasi Tei"
+              }
+            ]
+          },
           "term_start": {
             "text": "27 December 2021"
           },
@@ -120,7 +139,7 @@
             "text": "Minister of Education and Training"
           },
           "primeminister2": {
-            "text": "Pōhiva Tuʻiʻonetoa"
+            "text": "Pōhiva Tuʻiʻonetoa\nHimself"
           },
           "term_start2": {
             "text": "10 October 2019"
@@ -134,10 +153,45 @@
               }
             ]
           },
-          "office3": {
+          "office6": {
+            "text": "Minister for Police, Fire & Emergency Services"
+          },
+          "term_start6": {
+            "text": "28 December 2021"
+          },
+          "primeminister6": {
+            "text": "Himself"
+          },
+          "predecessor6": {
+            "text": "Lord Nuku",
+            "links": [
+              {
+                "text": "Lord Nuku",
+                "type": "internal",
+                "page": "Sitenimoa Valevale"
+              }
+            ]
+          },
+          "office7": {
+            "text": "Minister for His Majesty's Armed Forces"
+          },
+          "term_start7": {
+            "text": "28 December 2021"
+          },
+          "predecessor7": {
+            "text": "Lord Maʻafu",
+            "links": [
+              {
+                "text": "Lord Maʻafu",
+                "type": "internal",
+                "page": "Maʻafu Tukuiʻaulahi"
+              }
+            ]
+          },
+          "office8": {
             "text": "Deputy Prime Minister of Tonga"
           },
-          "primeminister3": {
+          "primeminister8": {
             "text": "ʻAkilisi Pōhiva",
             "links": [
               {
@@ -147,13 +201,13 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start8": {
             "text": "30 December 2014"
           },
-          "term_end3": {
+          "term_end8": {
             "text": "6 September 2017"
           },
-          "predecessor3": {
+          "predecessor8": {
             "text": "Samiu Vaipulu",
             "links": [
               {
@@ -162,7 +216,7 @@
               }
             ]
           },
-          "successor3": {
+          "successor8": {
             "text": "Lord Maʻafu",
             "links": [
               {
@@ -172,16 +226,16 @@
               }
             ]
           },
-          "office4": {
+          "office9": {
             "text": "Minister for Environment and Communication"
           },
-          "term_start4": {
+          "term_start9": {
             "text": "30 December 2014"
           },
-          "term_end4": {
+          "term_end9": {
             "text": "6 September 2017"
           },
-          "predecessor4": {
+          "predecessor9": {
             "text": "Lord Maʻafu",
             "links": [
               {
@@ -191,7 +245,7 @@
               }
             ]
           },
-          "successor4": {
+          "successor9": {
             "text": "Poasi Tei",
             "links": [
               {
@@ -200,10 +254,10 @@
               }
             ]
           },
-          "parliament5": {
+          "parliament15": {
             "text": "Tongan"
           },
-          "constituency_mp5": {
+          "constituency_mp15": {
             "text": "Tongatapu 3",
             "links": [
               {
@@ -212,10 +266,10 @@
               }
             ]
           },
-          "term_start5": {
+          "term_start15": {
             "text": "27 November 2014"
           },
-          "predecessor5": {
+          "predecessor15": {
             "text": "Sitiveni Halapua",
             "links": [
               {
