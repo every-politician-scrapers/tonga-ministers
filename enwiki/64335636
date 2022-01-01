@@ -5,6 +5,7 @@
     "Living people",
     "Members of the Legislative Assembly of Tonga",
     "Government ministers of Tonga",
+    "Deputy Prime Ministers of Tonga",
     "Democratic Party of the Friendly Islands politicians",
     "University of the South Pacific alumni",
     "1967 births"
@@ -64,6 +65,10 @@
       ],
       "templates": [
         {
+          "description": "Tongan politician",
+          "template": "short description"
+        },
+        {
           "year": "1967",
           "month": "10",
           "day": "4",
@@ -73,15 +78,53 @@
       ],
       "infoboxes": [
         {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
           "name": {
             "text": "Poasi Tei"
           },
           "office": {
-            "text": "Minister for Energy, Environment, Information and Climate Change"
+            "text": "Deputy Prime Minister of Tonga"
           },
           "primeminister": {
-            "text": "Pohiva Tuʻiʻonetoa\nʻAkilisi Pōhiva",
+            "text": "Siaosi Sovaleni",
             "links": [
+              {
+                "type": "internal",
+                "page": "Siaosi Sovaleni"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "28 December 2021"
+          },
+          "predecessor": {
+            "text": "Lord Maʻafu",
+            "links": [
+              {
+                "text": "Lord Maʻafu",
+                "type": "internal",
+                "page": "Maʻafu Tukuiʻaulahi"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister for Energy, Environment, Information and Climate Change"
+          },
+          "primeminister1": {
+            "text": "Siaosi Sovaleni\nPohiva Tuʻiʻonetoa\nʻAkilisi Pōhiva",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Siaosi Sovaleni"
+              },
               {
                 "type": "internal",
                 "page": "Pohiva Tuʻiʻonetoa"
@@ -93,10 +136,10 @@
               }
             ]
           },
-          "term_start": {
+          "term_start1": {
             "text": "4 January 2018"
           },
-          "predecessor": {
+          "predecessor1": {
             "text": "Siaosi Sovaleni",
             "links": [
               {
@@ -109,12 +152,27 @@
             "text": "Minister for Public Enterprises"
           },
           "term_start2": {
-            "text": "30 December 2014"
-          },
-          "term_end2": {
-            "text": "4 January 2018"
+            "text": "28 December 2021"
           },
           "primeminister2": {
+            "text": "Siaosi Sovaleni",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Siaosi Sovaleni"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Pōhiva Tuʻiʻonetoa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pōhiva Tuʻiʻonetoa"
+              }
+            ]
+          },
+          "primeminister3": {
             "text": "ʻAkilisi Pōhiva",
             "links": [
               {
@@ -124,13 +182,28 @@
               }
             ]
           },
-          "predecessor2": {
+          "term_start3": {
+            "text": "30 December 2014"
+          },
+          "term_end3": {
+            "text": "4 January 2018"
+          },
+          "predecessor3": {
             "text": "Fe‘aomoeata Vakata",
             "links": [
               {
                 "text": "Fe‘aomoeata Vakata",
                 "type": "internal",
                 "page": "Sosefo Fe‘aomoeata Vakata"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Saia Piukala",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saia Piukala"
               }
             ]
           },

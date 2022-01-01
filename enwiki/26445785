@@ -24,6 +24,11 @@
                   "text": "Tongan",
                   "type": "internal",
                   "page": "Tonga"
+                },
+                {
+                  "text": "Cabinet Minister",
+                  "type": "internal",
+                  "page": "Cabinet of Tonga"
                 }
               ],
               "formatting": {
@@ -64,11 +69,15 @@
             "text": "Minister for Justice and Prisons"
           },
           "primeminister5": {
-            "text": "Pohiva Tuʻiʻonetoa",
+            "text": "Pohiva Tuʻiʻonetoa\nSiaosi Sovaleni",
             "links": [
               {
                 "type": "internal",
                 "page": "Pohiva Tuʻiʻonetoa"
+              },
+              {
+                "type": "internal",
+                "page": "Siaosi Sovaleni"
               }
             ]
           },

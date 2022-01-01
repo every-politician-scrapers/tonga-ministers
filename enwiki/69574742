@@ -1,0 +1,94 @@
+{
+  "title": "Sevenitini Toumoʻua",
+  "pageID": 69574742,
+  "categories": [
+    "Living people",
+    "Members of the Legislative Assembly of Tonga",
+    "Government ministers of Tonga"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sevenitini Toumoʻua is a Tongan politician and Cabinet Minister.",
+              "links": [
+                {
+                  "text": "Tongan",
+                  "type": "internal",
+                  "page": "Tonga"
+                },
+                {
+                  "text": "Cabinet Minister",
+                  "type": "internal",
+                  "page": "Cabinet of Tonga"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sevenitini Toumoʻua"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Sevenitini Toumoʻua"
+          },
+          "office4": {
+            "text": "Minister for Infrastructure"
+          },
+          "primeminister4": {
+            "text": "Siaosi Sovaleni",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Siaosi Sovaleni"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "28 December 2021"
+          },
+          "predecessor4": {
+            "text": "ʻAkosita Lavulavu",
+            "links": [
+              {
+                "text": "ʻAkosita Lavulavu",
+                "type": "internal",
+                "page": "ʻAkosita Lavulavu"
+              }
+            ]
+          },
+          "constituency_mp10": {
+            "text": "Tongatapu 9",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tongatapu 9"
+              }
+            ]
+          },
+          "term_start10": {
+            "text": "18 November 2021"
+          },
+          "predecessor10": {
+            "text": "Penisimani Fifita",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Penisimani Fifita"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
