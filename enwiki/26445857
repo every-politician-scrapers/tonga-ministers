@@ -127,35 +127,6 @@
           "date": "March 2020",
           "template": "use dmy dates"
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.rnz.co.nz/international/pacific-news/193304/tonga-health-minister-standing-in-elections-to-ensure-continuity",
-          "title": "Tonga health minister standing in elections to ensure continuity",
-          "publisher": "RNZ",
-          "date": "25 October 2010",
-          "accessdate": "13 December 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.mic.gov.to/government/nobles-of-the-realm/1969-lord-tangi-of-vaonukonuka",
-          "title": "Lord Tangi of Vaonukonuka",
-          "publisher": "Matangi Tonga",
-          "date": "30 December 2010",
-          "accessdate": "21 July 2015",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://nukualofatimes.to/2021/11/22/lord-tangi-is-interim-speaker-of-the-house/",
-          "title": "Lord Tangi is interim Speaker of the House",
-          "publisher": "Nukualofa Times",
-          "date": "22 November 2021",
-          "access-date": "22 November 2021",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

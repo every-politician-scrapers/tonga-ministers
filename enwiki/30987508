@@ -236,58 +236,6 @@
             "text": "none (Nobles' Representative)"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.rnz.co.nz/international/pacific-news/458780/tonga-s-pm-names-new-government",
-          "title": "Tonga's PM names new government",
-          "publisher": "RNZ",
-          "date": "29 December 2021",
-          "access-date": "29 December 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://matangitonga.to/2021/12/29/pm-names-new-government",
-          "title": "PM names new government",
-          "publisher": "Matangi Tonga",
-          "date": "29 December 2021",
-          "access-date": "29 December 2021",
-          "archive-url": "https://web.archive.org/web/20211229094621/https://matangitonga.to/2021/12/29/pm-names-new-government",
-          "archive-date": "29 December 2021",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
