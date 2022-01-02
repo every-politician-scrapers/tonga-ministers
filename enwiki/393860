@@ -284,44 +284,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.pmo.gov.to/news-today/press-releases/3490-announcement-of-the-passing-of-his-late-majesty-a-proclamation-of-the-new-king",
-          "title": "Announcement of the Passing of His Late Majesty & Proclamation of the New King",
-          "publisher": "Tonga Government Portal",
-          "date": "21 March 2012",
-          "access-date": "21 March 2012",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20120415191649/http://www.pmo.gov.to/news-today/press-releases/3490-announcement-of-the-passing-of-his-late-majesty-a-proclamation-of-the-new-king",
-          "archive-date": "15 April 2012",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
