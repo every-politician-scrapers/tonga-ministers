@@ -115,6 +115,15 @@
                   "page": "Siaosi Sovaleni"
                 }
               ]
+            },
+            {
+              "text": "Immediately after being appointed he flew to New Zealand for medical treatment.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "New Zealand"
+                }
+              ]
             }
           ]
         }

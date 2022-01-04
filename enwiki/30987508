@@ -154,6 +154,9 @@
           "name": {
             "text": "Lord Tuʻiʻafitu"
           },
+          "image": {
+            "text": "Lord Tu’i’afitu.svg"
+          },
           "office3": {
             "text": "Minister for Lands and Natural Resources"
           },
@@ -234,6 +237,9 @@
           },
           "party": {
             "text": "none (Nobles' Representative)"
+          },
+          "caption": {
+            "text": "Tu’i’afitu in 2013"
           }
         }
       ]
