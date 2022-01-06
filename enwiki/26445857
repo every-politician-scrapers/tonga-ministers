@@ -3,12 +3,14 @@
   "pageID": 26445857,
   "categories": [
     "Living people",
+    "Year of birth missing (living people)",
+    "People from Vavaʻu",
+    "Fiji School of Medicine alumni",
     "Deputy Prime Ministers of Tonga",
     "Ministers of Health of Tonga",
     "Members of the Legislative Assembly of Tonga",
     "Tongan emigrants to Australia",
     "Tongan surgeons",
-    "Year of birth missing (living people)",
     "Knights Grand Cross of the Order of Queen Sālote Tupou III"
   ],
   "sections": [
@@ -19,7 +21,7 @@
         {
           "sentences": [
             {
-              "text": "Viliami Ta’u Tangi, Lord Tangi of Vaonukonuka, is a Tongan politician and former Cabinet Minister.",
+              "text": "Viliami Ta’u Tangi, styled Lord Tangi of Vaonukonuka, is a Tongan politician and former Cabinet Minister.",
               "links": [
                 {
                   "text": "Tongan",
@@ -29,26 +31,47 @@
               ],
               "formatting": {
                 "bold": [
-                  "Viliami Ta’u Tangi, Lord Tangi of Vaonukonuka"
+                  "Viliami Ta’u Tangi",
+                  "Lord Tangi of Vaonukonuka"
                 ]
               }
             },
             {
-              "text": "He has previously served as Deputy Prime Minister and Minister of Health.",
-              "links": [
-                {
-                  "text": "Deputy Prime Minister",
-                  "type": "internal",
-                  "page": "Deputy Prime Minister of Tonga"
-                }
-              ]
+              "text": "He has previously served as Deputy Prime Minister and Minister of Health."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Tangi trained as a medical doctor, and was Chief Surgeon in Vaiola Hospital, Nuku'alofa, before moving to Australia.",
+              "text": "Tangi is from Vavaʻu.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vavaʻu"
+                }
+              ]
+            },
+            {
+              "text": "He trained as a medical doctor at the Fiji School of Medicine, then entered the civil service as a medical officer.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fiji School of Medicine"
+                }
+              ]
+            },
+            {
+              "text": "After completing surgical training overseas he became the second Tongan national admitted to the Royal Australasian College of Surgeons.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Royal Australasian College of Surgeons"
+                }
+              ]
+            },
+            {
+              "text": "He worked as Chief Surgeon in Vaiola Hospital, Nuku'alofa, before moving to Australia.",
               "links": [
                 {
                   "type": "internal",
@@ -61,7 +84,7 @@
               ]
             },
             {
-              "text": "He returned to Tonga after being appointed as Minister of Health."
+              "text": "He returned to Tonga after being appointed as Minister of Health in 1999."
             },
             {
               "text": "As a Minister, he sat in the Tongan Parliament, but was not an elected representative.",
@@ -72,6 +95,9 @@
                   "page": "Legislative Assembly of Tonga"
                 }
               ]
+            },
+            {
+              "text": "In 2003 he was elected to the WHO Executive Board."
             }
           ]
         },
@@ -88,7 +114,7 @@
               ]
             },
             {
-              "text": "On 30 December 2010, he was subsequently appointed a Tongan life peer by King George Tupou V as Lord Tangi of Vaonukonuka.",
+              "text": "On 30 December 2010, he was appointed a Tongan life peer by King George Tupou V as Lord Tangi of Vaonukonuka.",
               "links": [
                 {
                   "text": "Tongan life peer",
@@ -127,6 +153,86 @@
         {
           "date": "March 2020",
           "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Viliami Tangi"
+          },
+          "office": {
+            "text": "Deputy Prime Minister"
+          },
+          "primeminister": {
+            "text": "Feleti Sevele",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Feleti Sevele"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "May 2006"
+          },
+          "term_end": {
+            "text": "4 January 2011"
+          },
+          "predecessor": {
+            "text": "James Cocker",
+            "links": [
+              {
+                "type": "internal",
+                "page": "James Cocker"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Samiu Vaipulu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Samiu Vaipulu"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of Health"
+          },
+          "term_start2": {
+            "text": "1 March 1999"
+          },
+          "term_end2": {
+            "text": "4 January 2011"
+          },
+          "primeminister2": {
+            "text": "Baron Vaea\nʻAhoʻeitu ʻUnuakiʻotonga Tukuʻaho\nFeleti Sevele",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Baron Vaea"
+              },
+              {
+                "text": "ʻAhoʻeitu ʻUnuakiʻotonga Tukuʻaho",
+                "type": "internal",
+                "page": "ʻAhoʻeitu ʻUnuakiʻotonga Tukuʻaho"
+              },
+              {
+                "type": "internal",
+                "page": "Feleti Sevele"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "ʻAkilisi Pōhiva",
+            "links": [
+              {
+                "text": "ʻAkilisi Pōhiva",
+                "type": "internal",
+                "page": "ʻAkilisi Pōhiva"
+              }
+            ]
+          }
         }
       ]
     }
