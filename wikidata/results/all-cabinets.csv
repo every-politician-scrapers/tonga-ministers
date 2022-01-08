@@ -1,7 +1,5 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q67567442,ʻAkilisi Pōhiva Ministry,2014-12-30,11,,,2019-09-01,10,,,Q1567190,Cabinet of Tonga,,,,,,,,,,
-,Q67567442,ʻAkilisi Pōhiva Ministry,2014-12-30,11,,,2019-09-12,11,,,Q1567190,Cabinet of Tonga,,,,,,,,,,
-,Q86670035,Tuʻiʻonetoa Cabinet,2019-10-08,11,,,2021-12-27,11,,,Q15284634,executive term,,,,,Q110319880,Sovaleni Cabinet,Q67567442,ʻAkilisi Pōhiva Ministry,,
-,Q86670035,Tuʻiʻonetoa Cabinet,2019-10-08,11,,,2021-12-27,11,,,Q1567190,Cabinet of Tonga,,,,,Q110319880,Sovaleni Cabinet,Q67567442,ʻAkilisi Pōhiva Ministry,,
-,Q110319880,Sovaleni Cabinet,2021-12-27,11,,,,,,,Q15284634,executive term,,,Q86670035,Tuʻiʻonetoa Cabinet,,,,,,
-,Q110319880,Sovaleni Cabinet,2021-12-27,11,,,,,,,Q1567190,Cabinet of Tonga,,,Q86670035,Tuʻiʻonetoa Cabinet,,,,,,
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q67567442,ʻAkilisi Pōhiva Ministry,2014-12-30,11,,,2019-09-12,11,,,,,,,,,,
+,Q67567442,ʻAkilisi Pōhiva Ministry,2014-12-30,11,,,2019-09-01,10,,,,,,,,,,
+,Q86670035,Tuʻiʻonetoa Cabinet,2019-10-08,11,,,2021-12-27,11,,,,,Q110319880,Sovaleni Cabinet,Q67567442,ʻAkilisi Pōhiva Ministry,,
+,Q110319880,Sovaleni Cabinet,2021-12-27,11,,,,,,,Q86670035,Tuʻiʻonetoa Cabinet,,,,,,
