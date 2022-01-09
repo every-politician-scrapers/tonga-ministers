@@ -5,6 +5,7 @@
     "Living people",
     "Members of the Legislative Assembly of Tonga",
     "Government ministers of Tonga",
+    "Governors of Haʻapai",
     "Year of birth missing (living people)"
   ],
   "sections": [
@@ -15,7 +16,7 @@
         {
           "sentences": [
             {
-              "text": "Viliami Manuopangai Faka’osiula Hingano is a Tongan politician and Cabinet Minister.",
+              "text": "Viliami Manuopangai Faka’osiula Hingano (born ~1975) is a Tongan politician and Cabinet Minister.",
               "links": [
                 {
                   "text": "Tongan",
@@ -98,7 +99,30 @@
               ]
             },
             {
-              "text": "He re-gained the seat at the 2021 election.",
+              "text": "In January 2021 he was appointed Governor of Haʻapai by Prime Minister Pōhiva Tuʻiʻonetoa.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Haʻapai"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pōhiva Tuʻiʻonetoa"
+                }
+              ]
+            },
+            {
+              "text": "Shortly after being appointed he was convicted of unlawful possession of 198kg of turtle meat."
+            },
+            {
+              "text": "He was fined T$12,000, but allowed to retain his position."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was re-elected to the Legislative Assembly at the 2021 election.",
               "links": [
                 {
                   "text": "2021 election",
@@ -133,10 +157,10 @@
           "name": {
             "text": "Viliami Hingano"
           },
-          "office4": {
+          "office3": {
             "text": "Minister for Agriculture, Food, Forests"
           },
-          "primeminister4": {
+          "primeminister3": {
             "text": "Siaosi Sovaleni",
             "links": [
               {
@@ -145,10 +169,10 @@
               }
             ]
           },
-          "term_start4": {
+          "term_start3": {
             "text": "28 December 2021"
           },
-          "predecessor4": {
+          "predecessor3": {
             "text": "Lord Tu’ilakepa",
             "links": [
               {
@@ -157,6 +181,33 @@
                 "page": "Malakai Fakatoufifita"
               }
             ]
+          },
+          "office4": {
+            "text": "Governor of Haʻapai",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Haʻapai"
+              }
+            ]
+          },
+          "primeminister4": {
+            "text": "Pōhiva Tuʻiʻonetoa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pōhiva Tuʻiʻonetoa"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "25 January 2021"
+          },
+          "predecessor4": {
+            "text": "Mohenoa Puloka"
+          },
+          "successor4": {
+            "text": "Pita Faiva Taufatofua"
           },
           "constituency_mp5": {
             "text": "Haʻapai 12",
