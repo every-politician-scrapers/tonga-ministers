@@ -44,6 +44,10 @@
                   "text": "Cabinet Minister",
                   "type": "internal",
                   "page": "Cabinet of Tonga"
+                },
+                {
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Tonga"
                 }
               ]
             }
@@ -189,7 +193,13 @@
             ]
           },
           "office8": {
-            "text": "Deputy Prime Minister of Tonga"
+            "text": "Deputy Prime Minister of Tonga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Prime Minister of Tonga"
+              }
+            ]
           },
           "primeminister8": {
             "text": "ʻAkilisi Pōhiva",

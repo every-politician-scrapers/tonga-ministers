@@ -4,7 +4,8 @@
   "categories": [
     "Living people",
     "Members of the Legislative Assembly of Tonga",
-    "Government ministers of Tonga"
+    "Government ministers of Tonga",
+    "Independent politicians in Tonga"
   ],
   "sections": [
     {
@@ -34,6 +35,12 @@
               }
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Tongan politician",
+          "template": "short description"
         }
       ],
       "infoboxes": [

@@ -8,7 +8,8 @@
     "Deputy Prime Ministers of Tonga",
     "Democratic Party of the Friendly Islands politicians",
     "University of the South Pacific alumni",
-    "1967 births"
+    "1967 births",
+    "Independent politicians in Tonga"
   ],
   "sections": [
     {
@@ -91,7 +92,13 @@
             "text": "Poasi Tei"
           },
           "office": {
-            "text": "Deputy Prime Minister of Tonga"
+            "text": "Deputy Prime Minister of Tonga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Prime Minister of Tonga"
+              }
+            ]
           },
           "primeminister": {
             "text": "Siaosi Sovaleni",
