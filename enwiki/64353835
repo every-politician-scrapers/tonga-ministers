@@ -153,6 +153,12 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "description": "Tongan politician",
+          "template": "short description"
+        }
+      ],
       "infoboxes": [
         {
           "name": {
