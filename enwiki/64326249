@@ -312,6 +312,38 @@
                 "page": "Independent politician"
               }
             ]
+          },
+          "alma_mater": {
+            "text": "* University of Auckland (BS)\n* University of Oxford (MS)\n* University of the South Pacific (MBA)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Auckland"
+              },
+              {
+                "text": "BS",
+                "type": "internal",
+                "page": "Bachelor of Science"
+              },
+              {
+                "type": "internal",
+                "page": "University of Oxford"
+              },
+              {
+                "text": "MS",
+                "type": "internal",
+                "page": "Master of Science"
+              },
+              {
+                "type": "internal",
+                "page": "University of the South Pacific"
+              },
+              {
+                "text": "MBA",
+                "type": "internal",
+                "page": "Master of Business Administration"
+              }
+            ]
           }
         }
       ]
