@@ -210,8 +210,17 @@
           "term_start4": {
             "text": "25 January 2021"
           },
+          "term_end4": {
+            "text": "28 December 2021"
+          },
           "predecessor4": {
-            "text": "Mohenoa Puloka"
+            "text": "Mohenoa Puloka",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohenoa Puloka"
+              }
+            ]
           },
           "successor4": {
             "text": "Pita Faiva Taufatofua"
