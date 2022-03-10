@@ -1,261 +1,34 @@
 {
-  "title": "Samiu Vaipulu",
-  "pageID": 26445785,
-  "categories": [
-    "Members of the Legislative Assembly of Tonga",
-    "Government ministers of Tonga",
-    "Deputy Prime Ministers of Tonga",
-    "Living people",
-    "University of the South Pacific alumni",
-    "1953 births",
-    "People from Vavaʻu",
-    "Members of the Order of Queen Sālote Tupou III",
-    "Independent politicians in Tonga"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Samiu Kuita Vaipulu (born 24 December 1952) is a Tongan politician and Cabinet Minister.",
-              "links": [
-                {
-                  "text": "Tongan",
-                  "type": "internal",
-                  "page": "Tonga"
-                },
-                {
-                  "text": "Cabinet Minister",
-                  "type": "internal",
-                  "page": "Cabinet of Tonga"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Samiu Kuita Vaipulu"
-                ]
-              }
-            },
-            {
-              "text": "He was the Tongan Deputy Prime Minister from 2010 to 2014 and is currently Minister for Trade and Economic Development."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Tongan politician",
-          "template": "short description"
-        },
-        {
-          "date": "December 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1952",
-          "month": "12",
-          "day": "24",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Samiu Vaipulu"
-          },
-          "office5": {
-            "text": "Minister for Justice and Prisons"
-          },
-          "primeminister5": {
-            "text": "Pohiva Tuʻiʻonetoa\nSiaosi Sovaleni",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pohiva Tuʻiʻonetoa"
-              },
-              {
-                "type": "internal",
-                "page": "Siaosi Sovaleni"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "25 January 2021"
-          },
-          "predecessor5": {
-            "text": "Sione Vuna Fa'otusia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sione Vuna Fa'otusia"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Minister for Trade and Economic Development"
-          },
-          "primeminister6": {
-            "text": "Pohiva Tuʻiʻonetoa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pohiva Tuʻiʻonetoa"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "10 October 2019"
-          },
-          "term_end6": {
-            "text": "25 January 2021"
-          },
-          "predecessor6": {
-            "text": "Tevita Tu'i Uata",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tevita Tu'i Uata"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Tatafu Moeaki",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tatafu Moeaki"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Deputy Prime Minister of Tonga"
-          },
-          "term_start7": {
-            "text": "5 January 2011"
-          },
-          "term_end7": {
-            "text": "30 December 2014"
-          },
-          "primeminister7": {
-            "text": "Sialeʻataongo Tuʻivakanō",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sialeʻataongo Tuʻivakanō"
-              }
-            ]
-          },
-          "predecessor7": {
-            "text": "Viliami Tangi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Viliami Tangi"
-              }
-            ]
-          },
-          "successor7": {
-            "text": "Siaosi Sovaleni",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Siaosi Sovaleni"
-              }
-            ]
-          },
-          "office8": {
-            "text": "Minister for Infrastructure"
-          },
-          "term_start8": {
-            "text": "7 January 2013"
-          },
-          "term_end8": {
-            "text": "30 December 2014"
-          },
-          "predecessor8": {
-            "text": "himself (as Minister for Transport and Works)"
-          },
-          "successor8": {
-            "text": "‘Etuate Lavulavu",
-            "links": [
-              {
-                "text": "‘Etuate Lavulavu",
-                "type": "internal",
-                "page": "‘Etuate Lavulavu"
-              }
-            ]
-          },
-          "office9": {
-            "text": "Minister for Justice"
-          },
-          "primeminister9": {
-            "text": "Sialeʻataongo Tuʻivakanō\nFeleti Sevele",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sialeʻataongo Tuʻivakanō"
-              },
-              {
-                "type": "internal",
-                "page": "Feleti Sevele"
-              }
-            ]
-          },
-          "term_start9": {
-            "text": "10 November 2009"
-          },
-          "term_end9": {
-            "text": "1 September 2011"
-          },
-          "successor9": {
-            "text": "Clive Edwards",
-            "links": [
-              {
-                "text": "Clive Edwards",
-                "type": "internal",
-                "page": "Clive Edwards (politician)"
-              }
-            ]
-          },
-          "constituency_mp10": {
-            "text": "Vavaʻu 15",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vavaʻu 15"
-              }
-            ]
-          },
-          "term_start10": {
-            "text": "26 November 2010"
-          },
-          "predecessor10": {
-            "text": "none (constituency established)",
-            "formatting": {
-              "italic": [
-                "none"
-              ]
-            }
-          },
-          "birth_date": {
-            "text": "December 24, 1952"
-          },
-          "party": {
-            "text": "Independent",
-            "links": [
-              {
-                "text": "Independent",
-                "type": "internal",
-                "page": "Independent politician"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Samiu Vaipulu",
+  "office5": "Minister for Justice and Prisons",
+  "primeminister5": "Pohiva Tuʻiʻonetoa\nSiaosi Sovaleni",
+  "term_start5": "25 January 2021",
+  "predecessor5": "Sione Vuna Fa'otusia",
+  "office6": "Minister for Trade and Economic Development",
+  "primeminister6": "Pohiva Tuʻiʻonetoa",
+  "term_start6": "10 October 2019",
+  "term_end6": "25 January 2021",
+  "predecessor6": "Tevita Tu'i Uata",
+  "successor6": "Tatafu Moeaki",
+  "office7": "Deputy Prime Minister of Tonga",
+  "term_start7": "5 January 2011",
+  "term_end7": "30 December 2014",
+  "primeminister7": "Sialeʻataongo Tuʻivakanō",
+  "predecessor7": "Viliami Tangi",
+  "successor7": "Siaosi Sovaleni",
+  "office8": "Minister for Infrastructure",
+  "term_start8": "7 January 2013",
+  "term_end8": "30 December 2014",
+  "predecessor8": "himself (as Minister for Transport and Works)",
+  "successor8": "‘Etuate Lavulavu",
+  "office9": "Minister for Justice",
+  "primeminister9": "Sialeʻataongo Tuʻivakanō\nFeleti Sevele",
+  "term_start9": "10 November 2009",
+  "term_end9": "1 September 2011",
+  "successor9": "Clive Edwards",
+  "constituency_mp10": "Vavaʻu 15",
+  "term_start10": "26 November 2010",
+  "predecessor10": "none (constituency established)",
+  "birth_date": "December 24, 1952",
+  "party": "Independent"
 }

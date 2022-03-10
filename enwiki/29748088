@@ -1,201 +1,25 @@
 {
-  "title": "Sione Sangster Saulala",
-  "pageID": 29748088,
-  "categories": [
-    "Members of the Legislative Assembly of Tonga",
-    "Government ministers of Tonga",
-    "Living people",
-    "1974 births",
-    "Human Rights and Democracy Movement politicians",
-    "Democratic Party of the Friendly Islands politicians",
-    "Tongan schoolteachers",
-    "University of the South Pacific alumni",
-    "People from Tongatapu"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Sione Sangster Saulala (born 9 April 1974 ) is a Tongan politician, broadcaster, and Cabinet Minister.",
-              "links": [
-                {
-                  "text": "Tongan",
-                  "type": "internal",
-                  "page": "Tonga"
-                },
-                {
-                  "text": "Cabinet Minister",
-                  "type": "internal",
-                  "page": "Cabinet of Tonga"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Sione Sangster Saulala"
-                ]
-              }
-            },
-            {
-              "text": "He was a member of the Democratic Party of the Friendly Islands early in his political career.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Democratic Party of the Friendly Islands"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Tongan politician",
-          "template": "short description"
-        },
-        {
-          "date": "November 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1974",
-          "month": "4",
-          "day": "9",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Sangster Saulala"
-          },
-          "image": {
-            "text": "Sangster Saulala 2014.jpg"
-          },
-          "caption": {
-            "text": "Sangster Saulala in 2014"
-          },
-          "office3": {
-            "text": "Minister for Internal Affairs"
-          },
-          "primeminister3": {
-            "text": "Siaosi Sovaleni",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Siaosi Sovaleni"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "28 December 2021"
-          },
-          "predecessor3": {
-            "text": "Vatau Hui",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vatau Hui"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister for Agriculture, Food, Forests and Fisheries"
-          },
-          "primeminister4": {
-            "text": "Lord Tuʻivakanō",
-            "links": [
-              {
-                "text": "Lord Tuʻivakanō",
-                "type": "internal",
-                "page": "Sialeʻataongo Tuʻivakanō"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "13 July 2012"
-          },
-          "term_end4": {
-            "text": "27 November 2014"
-          },
-          "predecessor4": {
-            "text": "Lord Vaea",
-            "links": [
-              {
-                "text": "Lord Vaea",
-                "type": "internal",
-                "page": "ʻAlipate Tuʻivanuavou Vaea"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Semisi Fakahau",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Semisi Fakahau"
-              }
-            ]
-          },
-          "constituency_mp5": {
-            "text": "Tongatapu 7",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tongatapu 7"
-              }
-            ]
-          },
-          "parliament5": {
-            "text": "Tongan"
-          },
-          "term_start5": {
-            "text": "18 November 2021"
-          },
-          "predecessor5": {
-            "text": "Sione Vuna Fa'otusia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sione Vuna Fa'otusia"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "26 November 2010"
-          },
-          "term_end6": {
-            "text": "27 November 2014"
-          },
-          "predecessor6": {
-            "text": "none (constituency established)",
-            "formatting": {
-              "italic": [
-                "none"
-              ]
-            }
-          },
-          "successor6": {
-            "text": "Sione Vuna Fa'otusia"
-          },
-          "birth_date": {
-            "text": "April 9, 1974"
-          },
-          "party": {
-            "text": "Democratic Party of the Friendly Islands",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Democratic Party of the Friendly Islands"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Sangster Saulala",
+  "image": "Sangster Saulala 2014.jpg",
+  "caption": "Sangster Saulala in 2014",
+  "office3": "Minister for Internal Affairs",
+  "primeminister3": "Siaosi Sovaleni",
+  "term_start3": "28 December 2021",
+  "predecessor3": "Vatau Hui",
+  "office4": "Minister for Agriculture, Food, Forests and Fisheries",
+  "primeminister4": "Lord Tuʻivakanō",
+  "term_start4": "13 July 2012",
+  "term_end4": "27 November 2014",
+  "predecessor4": "Lord Vaea",
+  "successor4": "Semisi Fakahau",
+  "constituency_mp5": "Tongatapu 7",
+  "parliament5": "Tongan",
+  "term_start5": "18 November 2021",
+  "predecessor5": "Sione Vuna Fa'otusia",
+  "term_start6": "26 November 2010",
+  "term_end6": "27 November 2014",
+  "predecessor6": "none (constituency established)",
+  "successor6": "Sione Vuna Fa'otusia",
+  "birth_date": "April 9, 1974",
+  "party": "Democratic Party of the Friendly Islands"
 }
