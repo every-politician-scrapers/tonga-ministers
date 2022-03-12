@@ -6,6 +6,10 @@ require 'pry'
 
 class MemberList
   class Member
+    REMAP = {
+      'Minister of Foreign Affairs & Tourism' => [ 'Minister of Foreign Affairs', 'Minister of Tourism' ]
+    }
+
     def name
       Name.new(
         full:     noko.css('h5').text.tidy,
@@ -14,7 +18,8 @@ class MemberList
     end
 
     def position
-      noko.css('h6').text.tidy.split(/, (?=Minister)/)
+      noko.css('h6').text.tidy.split(/[,\&] (?=Minister)/).map(&:tidy).
+        map { |posn| REMAP.fetch(posn, posn) }
     end
   end
 
