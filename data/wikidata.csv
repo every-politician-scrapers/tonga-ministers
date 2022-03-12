@@ -1,20 +1,20 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
 Q109661097,Tatafu Moeaki,Tatafu Moeaki,male,1972-12-08,11,,,Q108887702,Minister for Revenue and Customs,2021-12-28,Q109661097-450D0F4D-D9EB-4E7C-91BF-6DF0762EDA5F
-Q109661097,Tatafu Moeaki,Tatafu Moeaki,male,1972-12-08,11,,,Q104855433,Minister of Finance,2021-12-28,Q109661097-90117311-2BA9-4B34-BB26-005E79C387EE
-Q110243150,Sevenitini Toumoʻua,Sevenitini Toumoʻua,male,,,,,Q108887638,Minister of Infrastructure of Tonga,2021-12-28,Q110243150-B9C07696-12A8-4AEB-B1C3-73E36B87B5F6
-Q16194844,Lord Tonga Tuʻiʻafitu,Lord Tonga Tuʻiʻafitu,male,1962-10-03,11,,,Q108887679,Minister for Lands and Natural Resources,2021-12-28,Q16194844-3E5F784A-474A-4BBD-BA62-CFF37ED4662E
-Q19631293,Hu'akavameiliku,Siaosi Sovaleni,male,1970-02-28,11,https://www.parliament.gov.to/members-of-parliament/ministers,2021-12-04,Q108888371,Minister of Education & Training,2019-10-10,Q19631293-1CAA66F6-FDE4-4297-A3C4-83C8CC5DBB23
-Q19631293,Siaosi Sovaleni,Siaosi Sovaleni,male,1970-02-28,11,,,Q108888413,Minister of Police,2021-12-28,Q19631293-353CEE82-8BB6-42C4-A12A-75826AF1397D
-Q19631293,Siaosi Sovaleni,Siaosi Sovaleni,male,1970-02-28,11,,,Q109918661,Minister of Defence and His Majesty's Armed Forces,2021-12-28,Q19631293-40581D30-4F1A-4BDA-B266-CBA1A49A7346
-Q19631293,Siaosi Sovaleni,Siaosi Sovaleni,male,1970-02-28,11,,,Q915636,Prime Minister of Tonga,2021-12-27,Q19631293-9D604D95-CFB7-4D43-9B51-3E6FE524D32D
+Q109661097,Tatafu Moeaki,Tatafu Moeaki,male,1972-12-08,11,https://www.parliament.gov.to/members-of-parliament/ministers,2022-03-12,Q104855433,Minister of Finance & National Planning,2021-12-28,Q109661097-90117311-2BA9-4B34-BB26-005E79C387EE
+Q110243150,Seventeen Toumo'ua,Sevenitini Toumoʻua,male,,,https://www.parliament.gov.to/members-of-parliament/ministers,2022-03-12,Q108887638,Minister of Infrastructure,2021-12-28,Q110243150-B9C07696-12A8-4AEB-B1C3-73E36B87B5F6
+Q16194844,Lord Tu'i'afitu,Lord Tonga Tuʻiʻafitu,male,1962-10-03,11,https://www.parliament.gov.to/members-of-parliament/ministers,2022-03-12,Q108887679,"Minister of Lands, Survey and Natural Disaster",2021-12-28,Q16194844-3E5F784A-474A-4BBD-BA62-CFF37ED4662E
+Q19631293,Hu'akavameiliku,Hu'akavameiliku,male,1970-02-28,11,https://www.parliament.gov.to/members-of-parliament/ministers,2021-12-04,Q108888371,Minister of Education & Training,2019-10-10,Q19631293-1CAA66F6-FDE4-4297-A3C4-83C8CC5DBB23
+Q19631293,Hu'akavameiliku,Hu'akavameiliku,male,1970-02-28,11,,,Q108888413,Minister of Police,2021-12-28,Q19631293-353CEE82-8BB6-42C4-A12A-75826AF1397D
+Q19631293,Hu'akavameiliku,Hu'akavameiliku,male,1970-02-28,11,https://www.parliament.gov.to/members-of-parliament/ministers,2022-03-12,Q109918661,Minister of Defence,2021-12-28,Q19631293-40581D30-4F1A-4BDA-B266-CBA1A49A7346
+Q19631293,Hu'akavameiliku,Hu'akavameiliku,male,1970-02-28,11,https://www.parliament.gov.to/members-of-parliament/ministers,2022-03-12,Q915636,Prime Minister,2021-12-27,Q19631293-9D604D95-CFB7-4D43-9B51-3E6FE524D32D
 Q3470867,Samiu Kuita Vaipulu,Samiu Vaipulu,male,1952-12-24,11,https://www.parliament.gov.to/members-of-parliament/ministers,2021-12-04,Q108887653,Minister of Justice & Prisons,2021-01-25,Q3470867-8A66CDA0-2816-4248-A8E3-5A8C013D140C
-Q5441615,Fekitamoeloa 'Utoikamanu,Fekitamoeloa 'Utoikamanu,female,1959-01-01,9,,,Q108888428,Minister of Tourism,2021-12-28,Q5441615-90C39FFB-9571-4BC6-85F6-459ABF53818C
-Q5441615,Fekitamoeloa 'Utoikamanu,Fekitamoeloa 'Utoikamanu,female,1959-01-01,9,,,Q19901426,Minister of Foreign Affairs,2021-12-28,Q5441615-F37DF540-8545-49E7-930D-0EA08C4B03E4
-Q7525391,Sione Sangster Saulala,Sione Sangster Saulala,male,1974-04-09,11,,,Q108888383,Minister for Internal Affairs,2021-12-28,Q7525391-4A60821E-227C-4E08-A3F2-51D84A881181
-Q7930213,Viliami Latu,Viliami Latu,male,,,,,Q108888380,Minister for Trade and Economic Development,2021-12-28,Q7930213-59594A29-20E0-45D4-8D9F-D6AD07C1576B
-Q96278954,Saia Piukala,Saia Piukala,male,,,,,Q108888377,Minister of Health,2021-12-28,Q96278954-7C8C6BA5-F7D7-4992-98A3-3B1022E58F12
+Q5441615,Fekita 'Utoikamanu,Fekitamoeloa 'Utoikamanu,female,1959-01-01,9,https://www.parliament.gov.to/members-of-parliament/ministers,2022-03-12,Q108888428,Minister of Tourism,2021-12-28,Q5441615-90C39FFB-9571-4BC6-85F6-459ABF53818C
+Q5441615,Fekita 'Utoikamanu,Fekitamoeloa 'Utoikamanu,female,1959-01-01,9,https://www.parliament.gov.to/members-of-parliament/ministers,2022-03-12,Q19901426,Minister of Foreign Affairs,2021-12-28,Q5441615-F37DF540-8545-49E7-930D-0EA08C4B03E4
+Q7525391,Sangster Saulala,Sione Sangster Saulala,male,1974-04-09,11,https://www.parliament.gov.to/members-of-parliament/ministers,2022-03-12,Q108888383,Minister of Internal Affairs,2021-12-28,Q7525391-4A60821E-227C-4E08-A3F2-51D84A881181
+Q7930213,Dr Viliami Uasike Latu,Viliami Latu,male,,,https://www.parliament.gov.to/members-of-parliament/ministers,2022-03-12,Q108888380,Minister of Labour & Trade,2021-12-28,Q7930213-59594A29-20E0-45D4-8D9F-D6AD07C1576B
+Q96278954,Dr Saia Piukala,Saia Piukala,male,,,https://www.parliament.gov.to/members-of-parliament/ministers,2022-03-12,Q108888377,Minister of Health,2021-12-28,Q96278954-7C8C6BA5-F7D7-4992-98A3-3B1022E58F12
 Q96479418,Poasi Tei,Poasi Tei,male,1967-10-04,11,https://www.parliament.gov.to/members-of-parliament/ministers,2021-12-04,Q108887682,"Minister of Meteorology, Energy, Information, Disaster Management, Environment, Climate Change and Communications",2018-01-04,Q96479418-116F4688-C6EF-43A0-B023-C312F9004907
 Q96479418,Poasi Tei,Poasi Tei,male,1967-10-04,11,,,Q108888368,Minister for Public Enterprises,2021-12-28,Q96479418-5AE5838C-B558-4E07-A5CA-D445A6870BEC
-Q96479418,Poasi Tei,Poasi Tei,male,1967-10-04,11,,,Q108887636,Deputy Prime Minister of Tonga,2021-12-28,Q96479418-952097E8-C431-42B9-AC7E-C232E8CC997E
-Q96482295,Semisi Fakahau,Semisi Fakahau,male,1948-11-02,11,,,Q108888397,Minister for Fisheries,2021-12-28,Q96482295-0F4516B1-9EBA-499C-A758-0D291340805B
-Q96592493,Viliami Hingano,Viliami Hingano,male,,,,,Q108888398,"Minister for Agriculture, Food, and Forests",2021-12-28,Q96592493-98E62049-10F1-4273-AABA-68D38E94331A
+Q96479418,Poasi Tei,Poasi Tei,male,1967-10-04,11,https://www.parliament.gov.to/members-of-parliament/ministers,2022-03-12,Q108887636,Deputy Prime Minister,2021-12-28,Q96479418-952097E8-C431-42B9-AC7E-C232E8CC997E
+Q96482295,Semisi Fakahau,Semisi Fakahau,male,1948-11-02,11,https://www.parliament.gov.to/members-of-parliament/ministers,2022-03-12,Q108888397,Minister of Fisheries,2021-12-28,Q96482295-0F4516B1-9EBA-499C-A758-0D291340805B
+Q96592493,Manuopangai Hingano,Viliami Hingano,male,,,https://www.parliament.gov.to/members-of-parliament/ministers,2022-03-12,Q108888398,"Minister of Agriculture, Forestry & Food",2021-12-28,Q96592493-98E62049-10F1-4273-AABA-68D38E94331A
