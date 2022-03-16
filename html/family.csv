@@ -1,35 +1,35 @@
 id,name,relationship,relative,relativename
-Q208497,Tupou VI of Tonga,child,Q13382727,Princess Lātūfuipeka Tukuʻaho
-Q208497,Tupou VI of Tonga,child,Q14947549,Prince Ata
-Q208497,Tupou VI of Tonga,child,Q1583552,Tupoutoʻa ʻUlukalala
-Q208497,Tupou VI of Tonga,father,Q273739,Tāufaʻāhau Tupou IV of Tonga
-Q208497,Tupou VI of Tonga,mother,Q3711224,"Queen Halaevalu Mataʻaho, Queen Mother of Tonga"
-Q208497,Tupou VI of Tonga,sibling,Q227716,George Tupou V of Tonga
-Q208497,Tupou VI of Tonga,sibling,Q7405720,"Princess Sālote Mafile'o Pilolevu, Princess Royal of Tonga"
-Q208497,Tupou VI of Tonga,spouse,Q6962436,Nanasipauʻu Tukuʻaho
-Q227716,George Tupou V of Tonga,father,Q273739,Tāufaʻāhau Tupou IV of Tonga
-Q227716,George Tupou V of Tonga,mother,Q3711224,"Queen Halaevalu Mataʻaho, Queen Mother of Tonga"
-Q227716,George Tupou V of Tonga,sibling,Q208497,Tupou VI of Tonga
-Q227716,George Tupou V of Tonga,sibling,Q7405720,"Princess Sālote Mafile'o Pilolevu, Princess Royal of Tonga"
-Q273739,Tāufaʻāhau Tupou IV of Tonga,child,Q208497,Tupou VI of Tonga
-Q273739,Tāufaʻāhau Tupou IV of Tonga,child,Q227716,George Tupou V of Tonga
-Q273739,Tāufaʻāhau Tupou IV of Tonga,child,Q25701254,Fatafehi ʻAlaivahamamaʻo Tukuʻaho
-Q273739,Tāufaʻāhau Tupou IV of Tonga,child,Q7405720,"Princess Sālote Mafile'o Pilolevu, Princess Royal of Tonga"
-Q273739,Tāufaʻāhau Tupou IV of Tonga,father,Q10948952,Viliami Tungī Mailefihi
-Q273739,Tāufaʻāhau Tupou IV of Tonga,mother,Q541570,Sālote Tupou III of Tonga
-Q273739,Tāufaʻāhau Tupou IV of Tonga,sibling,Q984131,Tu'i Pelehake
-Q273739,Tāufaʻāhau Tupou IV of Tonga,spouse,Q3711224,"Queen Halaevalu Mataʻaho, Queen Mother of Tonga"
-Q28910910,‘Akosita Lavulavu,spouse,Q8084044,‘Etuate Lavulavu
-Q3485136,Lord Maʻafu,spouse,Q25702086,"Princess Lavinia Mata-ʻo Tāone, Lady Maʻafu"
-Q3594635,ʻAlipate Tuʻivanuavou Vaea,father,Q808685,Baron Vaea
-Q3594635,ʻAlipate Tuʻivanuavou Vaea,mother,Q4862978,Baroness Tuputupu Vaea
-Q3594635,ʻAlipate Tuʻivanuavou Vaea,sibling,Q6962436,Nanasipauʻu Tukuʻaho
-Q5437258,"Fatafehi Fakafānua, 8th Lord Fakafānua",father,Q25701264,"Kinikinilau Tūtoatasi Fakafānua, 7th Lord Fakafānua"
-Q5437258,"Fatafehi Fakafānua, 8th Lord Fakafānua",mother,Q25702088,"Princess Sinaitakala ʻOfeina ʻe he Langi, Lady Fakafānua"
-Q7449658,Semisi Tapueluelu,child,Q19605129,Mateni Tapueluelu
-Q8084044,‘Etuate Lavulavu,spouse,Q28910910,‘Akosita Lavulavu
-Q808685,Baron Vaea,child,Q3594635,ʻAlipate Tuʻivanuavou Vaea
-Q808685,Baron Vaea,child,Q6962436,Nanasipauʻu Tukuʻaho
-Q808685,Baron Vaea,spouse,Q4862978,Baroness Tuputupu Vaea
-Q96476105,Siaosi Pōhiva,father,Q3594634,ʻAkilisi Pohiva
-Q96574317,Tevita Tu'i Uata,father,Q8084048,‘Uliti Uata
+Q208497,Tupou VI of Tonga,child,Q13382727,
+Q208497,Tupou VI of Tonga,child,Q14947549,
+Q208497,Tupou VI of Tonga,child,Q1583552,
+Q208497,Tupou VI of Tonga,father,Q273739,
+Q208497,Tupou VI of Tonga,mother,Q3711224,
+Q208497,Tupou VI of Tonga,sibling,Q227716,
+Q208497,Tupou VI of Tonga,sibling,Q7405720,
+Q208497,Tupou VI of Tonga,spouse,Q6962436,
+Q227716,George Tupou V of Tonga,father,Q273739,
+Q227716,George Tupou V of Tonga,mother,Q3711224,
+Q227716,George Tupou V of Tonga,sibling,Q208497,
+Q227716,George Tupou V of Tonga,sibling,Q7405720,
+Q273739,Tāufaʻāhau Tupou IV of Tonga,child,Q208497,
+Q273739,Tāufaʻāhau Tupou IV of Tonga,child,Q227716,
+Q273739,Tāufaʻāhau Tupou IV of Tonga,child,Q25701254,
+Q273739,Tāufaʻāhau Tupou IV of Tonga,child,Q7405720,
+Q273739,Tāufaʻāhau Tupou IV of Tonga,father,Q10948952,
+Q273739,Tāufaʻāhau Tupou IV of Tonga,mother,Q541570,
+Q273739,Tāufaʻāhau Tupou IV of Tonga,sibling,Q984131,
+Q273739,Tāufaʻāhau Tupou IV of Tonga,spouse,Q3711224,
+Q28910910,‘Akosita Lavulavu,spouse,Q8084044,
+Q3485136,Lord Maʻafu,spouse,Q25702086,
+Q3594635,ʻAlipate Tuʻivanuavou Vaea,father,Q808685,
+Q3594635,ʻAlipate Tuʻivanuavou Vaea,mother,Q4862978,
+Q3594635,ʻAlipate Tuʻivanuavou Vaea,sibling,Q6962436,
+Q5437258,"Fatafehi Fakafānua, 8th Lord Fakafānua",father,Q25701264,
+Q5437258,"Fatafehi Fakafānua, 8th Lord Fakafānua",mother,Q25702088,
+Q7449658,Semisi Tapueluelu,child,Q19605129,
+Q8084044,‘Etuate Lavulavu,spouse,Q28910910,
+Q808685,Baron Vaea,child,Q3594635,
+Q808685,Baron Vaea,child,Q6962436,
+Q808685,Baron Vaea,spouse,Q4862978,
+Q96476105,Siaosi Pōhiva,father,Q3594634,
+Q96574317,Tevita Tu'i Uata,father,Q8084048,
