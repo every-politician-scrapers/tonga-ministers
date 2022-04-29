@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Tonga",
+      "id": "Q678"
+    },
+    "cabinet": {
+      "id": "Q110319880",
+      "start": "2021-12-27",
+      "parent": "Q1567190"
+    },
+    "source": {
+        "url":   "https://www.parliament.gov.to/members-of-parliament/ministers",
+        "title": "Ministers",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/tonga-ministers"
+}
