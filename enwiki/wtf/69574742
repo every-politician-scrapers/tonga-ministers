@@ -1,0 +1,193 @@
+{
+  "title": "Sevenitini Toumoʻua",
+  "pageID": 69574742,
+  "categories": [
+    "Living people",
+    "Members of the Legislative Assembly of Tonga",
+    "Government ministers of Tonga",
+    "Independent politicians in Tonga",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sevenitini Toumoʻua is a Tongan politician and Cabinet Minister.",
+              "links": [
+                {
+                  "text": "Tongan",
+                  "type": "internal",
+                  "page": "Tonga"
+                },
+                {
+                  "text": "Cabinet Minister",
+                  "type": "internal",
+                  "page": "Cabinet of Tonga"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sevenitini Toumoʻua"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Tongan politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Sevenitini Toumoʻua"
+          },
+          "office4": {
+            "text": "Minister for Infrastructure"
+          },
+          "primeminister4": {
+            "text": "Siaosi Sovaleni",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Siaosi Sovaleni"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "28 December 2021"
+          },
+          "predecessor4": {
+            "text": "ʻAkosita Lavulavu",
+            "links": [
+              {
+                "text": "ʻAkosita Lavulavu",
+                "type": "internal",
+                "page": "ʻAkosita Lavulavu"
+              }
+            ]
+          },
+          "constituency_mp10": {
+            "text": "Tongatapu 9",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tongatapu 9"
+              }
+            ]
+          },
+          "term_start10": {
+            "text": "18 November 2021"
+          },
+          "predecessor10": {
+            "text": "Penisimani Fifita",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Penisimani Fifita"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Politics",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was a candidate in the 2011 Tongatapu 9 by-election.",
+              "links": [
+                {
+                  "text": "2011 Tongatapu 9 by-election",
+                  "type": "internal",
+                  "page": "2011 Tongatapu 9 by-election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was elected to the Legislative Assembly of Tonga at the 2021 Tongan general election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Legislative Assembly of Tonga"
+                },
+                {
+                  "text": "2021 Tongan general election",
+                  "type": "internal",
+                  "page": "2021 Tongan general election"
+                }
+              ]
+            },
+            {
+              "text": "On 28 December 2021 he was appointed to the Cabinet of Siaosi Sovaleni as Minister for Infrastructure.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Siaosi Sovaleni"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2021-11-18",
+          "title": "Tonga elects all-male parliament with nine new People's Reps",
+          "url": "https://matangitonga.to/2021/11/19/tonga-PR-results-elect-all-male-parliament",
+          "access-date": "2021-12-22",
+          "website": "Matangitonga",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.kanivatonga.nz/2021/11/a-sobering-reality-hits-ptoa-after-election-losses-voters-elect-nine-new-independent-faces/",
+          "title": "A sobering reality hits Democrats after election losses; voters elect nine new faces",
+          "publisher": "Kaniva Tonga",
+          "date": "18 November 2021",
+          "access-date": "15 December 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://matangitonga.to/2021/12/29/pm-names-new-government",
+          "title": "PM names new government",
+          "publisher": "Matangi Tonga",
+          "date": "29 December 2021",
+          "access-date": "29 December 2021",
+          "archive-url": "https://web.archive.org/web/20211229094621/https://matangitonga.to/2021/12/29/pm-names-new-government",
+          "archive-date": "29 December 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "tonga-politician-stub"
+        }
+      ]
+    }
+  ]
+}
