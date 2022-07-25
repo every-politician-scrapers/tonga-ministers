@@ -569,10 +569,14 @@
           "type": "web"
         },
         {
+          "url": "http://www.mic.gov.to/news-today/royalty/4535-king-tupou-vi-installed-chancellor-of-the-university-of-the-south-pacific",
+          "title": "Mic",
+          "access-date": "4 July 2015",
+          "archive-date": "28 May 2018",
+          "archive-url": "https://web.archive.org/web/20180528151135/http://www.mic.gov.to/news-today/royalty/4535-king-tupou-vi-installed-chancellor-of-the-university-of-the-south-pacific",
+          "url-status": "dead",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "title": "Volcano triggers Tonga tsunami, alerts issued from Japan to US",
