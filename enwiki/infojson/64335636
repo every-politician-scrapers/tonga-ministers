@@ -1,0 +1,90 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Tongatapu 6"
+      ],
+      "stated_as": "Tongatapu 6"
+    },
+    "P580": "2014-11-27",
+    "P1365": {
+      "links": [
+        "Siosifa Tuʻitupou Tuʻutafaiva"
+      ],
+      "stated_as": "Siosifa Tuʻutafaiva"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Public Enterprises"
+    },
+    "P580": "2014-12-30",
+    "P1365": {
+      "links": [
+        "Sosefo Fe‘aomoeata Vakata"
+      ],
+      "stated_as": "Fe‘aomoeata Vakata"
+    },
+    "P582": "2018-01-04",
+    "P1366": {
+      "links": [
+        "Saia Piukala"
+      ],
+      "stated_as": "Saia Piukala"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Energy, Environment, Information and Climate Change"
+    },
+    "P580": "2018-01-04",
+    "P1365": {
+      "links": [
+        "Siaosi Sovaleni"
+      ],
+      "stated_as": "Siaosi Sovaleni"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Tonga"
+      ],
+      "stated_as": "Deputy Prime Minister of Tonga"
+    },
+    "P580": "2021-12-28",
+    "P1365": {
+      "links": [
+        "Maʻafu Tukuiʻaulahi"
+      ],
+      "stated_as": "Lord Maʻafu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Public Enterprises"
+    },
+    "P580": "2021-12-28",
+    "P1365": {
+      "links": [
+        "Pōhiva Tuʻiʻonetoa"
+      ],
+      "stated_as": "Pōhiva Tuʻiʻonetoa"
+    }
+  }
+]

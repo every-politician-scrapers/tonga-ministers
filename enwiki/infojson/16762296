@@ -1,0 +1,32 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (Tonga)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2021-12-28",
+    "P1365": {
+      "links": [
+        "Pōhiva Tuʻiʻonetoa"
+      ],
+      "stated_as": "Pōhiva Tuʻiʻonetoa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Tourism"
+    },
+    "P580": "2021-12-28",
+    "P1365": {
+      "links": [
+        "ʻAkosita Lavulavu"
+      ],
+      "stated_as": "ʻAkosita Lavulavu"
+    }
+  }
+]

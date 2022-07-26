@@ -1,0 +1,38 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Tongatapu 9"
+      ],
+      "stated_as": "Tongatapu 9"
+    },
+    "P580": "2021-11-18",
+    "P1365": {
+      "links": [
+        "Penisimani Fifita"
+      ],
+      "stated_as": "Penisimani Fifita"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Infrastructure"
+    },
+    "P580": "2021-12-28",
+    "P1365": {
+      "links": [
+        "ʻAkosita Lavulavu"
+      ],
+      "stated_as": "ʻAkosita Lavulavu"
+    }
+  }
+]

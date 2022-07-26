@@ -1,0 +1,104 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Vavaʻu 14"
+      ],
+      "stated_as": "Vavaʻu 14"
+    },
+    "P580": "2014-11-27",
+    "P1365": {
+      "links": [
+        "Lisiate ‘Akolo"
+      ],
+      "stated_as": "Lisiate ‘Akolo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Health"
+    },
+    "P580": "2014-12-30",
+    "P1365": {
+      "links": [
+        "Tonga Tuʻiʻafitu"
+      ],
+      "stated_as": "Tonga Tuʻiʻafitu"
+    },
+    "P582": "2019-10-10",
+    "P1366": {
+      "links": [
+        "‘Amelia Afuha’amango Tu’ipulotu"
+      ],
+      "stated_as": "‘Amelia Afuha’amango Tu’ipulotu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Public Enterprises"
+    },
+    "P580": "2018-01-04",
+    "P1365": {
+      "links": [
+        "Poasi Tei"
+      ],
+      "stated_as": "Poasi Tei"
+    },
+    "P582": "2019-01-23",
+    "P1366": {
+      "links": [
+        "ʻAkilisi Pōhiva"
+      ],
+      "stated_as": "ʻAkilisi Pōhiva"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Internal Affairs and Sports"
+    },
+    "P580": "2019-01-23",
+    "P1365": {
+      "links": [
+        "Losaline Ma'asi"
+      ],
+      "stated_as": "Losaline Ma'asi"
+    },
+    "P582": "2019-10-10",
+    "P1366": {
+      "links": [
+        "Vatau Hui"
+      ],
+      "stated_as": "Vatau Hui"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Health"
+    },
+    "P580": "2021-12-28",
+    "P1365": {
+      "links": [
+        "ʻAmelia Afuhaʻamango Tuʻipulotu"
+      ],
+      "stated_as": "ʻAmelia Afuhaʻamango Tuʻipulotu"
+    }
+  }
+]
