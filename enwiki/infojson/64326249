@@ -1,0 +1,127 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Tongatapu 3"
+      ],
+      "stated_as": "Tongatapu 3"
+    },
+    "P580": "2014-11-27",
+    "P1365": {
+      "links": [
+        "Sitiveni Halapua"
+      ],
+      "stated_as": "Sitiveni Halapua"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Tonga"
+      ],
+      "stated_as": "Deputy Prime Minister of Tonga"
+    },
+    "P580": "2014-12-30",
+    "P1365": {
+      "links": [
+        "Samiu Vaipulu"
+      ],
+      "stated_as": "Samiu Vaipulu"
+    },
+    "P582": "2017-09-06",
+    "P1366": {
+      "links": [
+        "Maʻafu Tukuiʻaulahi"
+      ],
+      "stated_as": "Lord Maʻafu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Environment and Communication"
+    },
+    "P580": "2014-12-30",
+    "P1365": {
+      "links": [
+        "Maʻafu Tukuiʻaulahi"
+      ],
+      "stated_as": "Lord Maʻafu"
+    },
+    "P582": "2017-09-06",
+    "P1366": {
+      "links": [
+        "Poasi Tei"
+      ],
+      "stated_as": "Poasi Tei"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Education and Training"
+    },
+    "P580": "2019-10-10",
+    "P1365": {
+      "links": [
+        "Penisimani Fifita"
+      ],
+      "stated_as": "Penisimani Fifita"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Tonga"
+      ],
+      "stated_as": "18th Prime Minister of Tonga"
+    },
+    "P580": "2021-12-27",
+    "P1365": {
+      "links": [
+        "Pōhiva Tuʻiʻonetoa"
+      ],
+      "stated_as": "Pōhiva Tuʻiʻonetoa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for His Majesty's Armed Forces"
+    },
+    "P580": "2021-12-28",
+    "P1365": {
+      "links": [
+        "Maʻafu Tukuiʻaulahi"
+      ],
+      "stated_as": "Lord Maʻafu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Police, Fire & Emergency Services"
+    },
+    "P580": "2021-12-28",
+    "P1365": {
+      "links": [
+        "Sitenimoa Valevale"
+      ],
+      "stated_as": "Lord Nuku"
+    }
+  }
+]

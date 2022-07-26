@@ -1,0 +1,54 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Vavaʻu Nobles' constituency"
+      ],
+      "stated_as": "Vavaʻu Nobles' constituency"
+    },
+    "P580": "2010-11-25"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Health"
+    },
+    "P580": "2012-07-05",
+    "P1365": {
+      "links": [
+        "‘Uliti Uata"
+      ],
+      "stated_as": "‘Uliti Uata"
+    },
+    "P582": "2014-11-27",
+    "P1366": {
+      "links": [
+        "Saia Piukala"
+      ],
+      "stated_as": "Saia Piukala"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Lands and Natural Resources"
+    },
+    "P580": "2021-12-28",
+    "P1365": {
+      "links": [
+        "Maʻafu Tukuiʻaulahi"
+      ],
+      "stated_as": "Lord Maʻafu"
+    }
+  }
+]

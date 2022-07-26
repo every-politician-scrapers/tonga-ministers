@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Health"
+    },
+    "P580": "1999-03-01",
+    "P582": "2011-01-04",
+    "P1366": {
+      "links": [
+        "ʻAkilisi Pōhiva"
+      ],
+      "stated_as": "ʻAkilisi Pōhiva"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Deputy Prime Minister"
+    },
+    "P580": "2006-05",
+    "P1365": {
+      "links": [
+        "James Cocker"
+      ],
+      "stated_as": "James Cocker"
+    },
+    "P582": "2011-01-04",
+    "P1366": {
+      "links": [
+        "Samiu Vaipulu"
+      ],
+      "stated_as": "Samiu Vaipulu"
+    }
+  }
+]

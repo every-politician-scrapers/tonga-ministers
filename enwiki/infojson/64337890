@@ -1,0 +1,82 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Tongatapu 8"
+      ],
+      "stated_as": "Tongatapu 8"
+    },
+    "P580": "2014-11-27",
+    "P1365": {
+      "links": [
+        "Sione Taione"
+      ],
+      "stated_as": "Sione Taione"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Agriculture, Food, and Forests"
+    },
+    "P580": "2014-12-30",
+    "P1365": {
+      "links": [
+        "Sione Sangster Saulala"
+      ],
+      "stated_as": "Sangster Saulala"
+    },
+    "P582": "2019-01-23",
+    "P1366": {
+      "links": [
+        "Losaline Ma'asi"
+      ],
+      "stated_as": "Losaline Ma'asi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Fisheries"
+    },
+    "P580": "2014-12-30",
+    "P1365": {
+      "links": [
+        "Sione Sangster Saulala"
+      ],
+      "stated_as": "Sangster Saulala"
+    },
+    "P582": "2019-10-10",
+    "P1366": {
+      "links": [
+        "Malakai Fakatoufifita"
+      ],
+      "stated_as": "Lord Tuʻilakepa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Fisheries"
+    },
+    "P580": "2021-12-28",
+    "P1365": {
+      "links": [
+        "Malakai Fakatoufifita"
+      ],
+      "stated_as": "Lord Tuʻilakepa"
+    }
+  }
+]

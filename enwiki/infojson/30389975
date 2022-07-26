@@ -1,0 +1,104 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Police, Prisons and Fire Services"
+    },
+    "P580": "2010-01-04",
+    "P1365": {
+      "links": [
+        "Viliami Tangi"
+      ],
+      "stated_as": "Dr. Viliami Tangi"
+    },
+    "P582": "2011-08-31",
+    "P1366": {
+      "links": [
+        "Lisiate ʻAloveita ʻAkolo"
+      ],
+      "stated_as": "Lisiate ʻAloveita ʻAkolo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P580": "2010-11-25",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "none (constituency established)"
+    },
+    "P582": "2014-11-27",
+    "P1366": {
+      "links": [
+        "‘Etuate Lavulavu"
+      ],
+      "stated_as": "‘Etuate Lavulavu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Tourism"
+    },
+    "P580": "2011-09-01",
+    "P1365": {
+      "links": [
+        "ʻIsileli Pulu"
+      ],
+      "stated_as": "ʻIsileli Pulu"
+    },
+    "P582": "2014-11-27",
+    "P1366": {
+      "links": [
+        "Pohiva Tuʻiʻonetoa"
+      ],
+      "stated_as": "Pohiva Tuʻiʻonetoa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Vavaʻu 16"
+      ],
+      "stated_as": "Vavaʻu 16"
+    },
+    "P580": "2021-11-18",
+    "P1365": {
+      "links": [
+        "ʻAkosita Lavulavu"
+      ],
+      "stated_as": "ʻAkosita Lavulavu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Trade and Economic Development"
+    },
+    "P580": "2021-12-28",
+    "P1365": {
+      "links": [
+        "Tatafu Moeaki"
+      ],
+      "stated_as": "Tatafu Moeaki"
+    }
+  }
+]
